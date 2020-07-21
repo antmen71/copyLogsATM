@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <sp4Log>true</sp4Log>
+  <!--Do you want to copy SP4 logs - true=yes false=no -->
+  <sp4LogPath>C:\GrgBanking\log\</sp4LogPath>
+  <!--Where are the SP4 logs located? -->
+  <sp4LogName>grgsp.grglog</sp4LogName>
+  <!--Name of the actual SP4 log file -->
+  <sp5Log>true</sp5Log>
+  <!--Do you want to copy SP5 logs - true=yes false=no -->
+  <sp5LogPath>C:\GrgBanking\log\</sp5LogPath>
+  <!--Where is the SP5 log located? -->
+  <sp5LogName>GrgLog.dxdb</sp5LogName>
+  <!--Name of the SP5 log file -->
+  <CRMLog>true</CRMLog>
+  <!--Do you want to copy CRM logs?	- true=yes false=no -->
+  <CRMLogPath>C:\GrgBanking\log\CRMLog\</CRMLogPath>
+  <!--Where are the CRM logs located? -->
+  <CRMLogName>^CRM9250DevLog_\\d{8}_\\d{6}</CRMLogName>
+  <!--Name of the CRM log files -->
+  <driverLog>true</driverLog>
+  <!--Do you want to copy driverlogs? - true=yes false=no -->
+  <driverLogPath>C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\</driverLogPath>
+  <!--Where are the driver logs located? -->
+  <driverLogName>.*\\(\\d{4}-\\d{2}-\\d{2}\\).txt</driverLogName>
+  <!--Name of the driver log file -->
+  <duniteLog>true</duniteLog>
+  <!--Do you want to copy dunite logs? - true=yes false=no -->
+  <duniteLogPath>C:\GrgBanking\log\hardware\</duniteLogPath>
+  <!--Where are the dunite logs located? -->
+  <duniteLogName>.*\\(\\d{4}-\\d{2}-\\d{2}\\).zip</duniteLogName>
+  <!--What is the name of the dunitelog -->
+  <XFSManLog>true</XFSManLog>
+  <!--Do you want to copy XFS manager logs? - true=yes false=no -->
+  <XFSManLogPath>C:\GrgBanking\log\GrgXfsManager\</XFSManLogPath>
+  <!--Where are the XFSMan logs located? -->
+  <XFSMANLogName>GrgXfsManager.log</XFSMANLogName>
+  <!--Name of the XFSMan log -->
+  <YDCLogs>true</YDCLogs>
+  <!--Do you want to copy YDC logs? - true=yes false=no -->
+  <winSystemLog>true</winSystemLog>
+  <!--Do you want to export the Windows system log? - true=yes false=no -->
+  <logDateCriteria>false</logDateCriteria>
+  <!--True for date criteria, logDateBeg and logDateEnd will be used -->
+  <logDateBegYear>2018</logDateBegYear>
+  <!--Logs will be copied based on the date criteria, this parameter will be the first day. Please enter year, or select the date from calendar-->
+  <logDateBegMonth>1</logDateBegMonth>
+  <!--Logs will be copied based on the date criteria, this parameter will be the first day. Please enter month, or select the date from calendar-->
+  <logDateBegDay>6</logDateBegDay>
+  <!--Logs will be copied based on the date criteria, this parameter will be the first day. Please enter day, or select the date from calendar-->
+  <logDateEndYear>2018</logDateEndYear>
+  <!--Logs will be copied based on the date criteria, this parameter will be the last day. Please enter year, or select the date from calendar-->
+  <logDateEndMonth>1</logDateEndMonth>
+  <!--Logs will be copied based on the date criteria, this parameter will be the last day. Please enter year, or select the date from calendar-->
+  <logDateEndDay>6</logDateEndDay>
+  <!--Logs will be copied based on the date criteria, this parameter will be the last day. Please enter day, or select the date from calendar-->
+  <logIntervalCriteria>true</logIntervalCriteria>
+  <!--True for interval criteria, the logs will be copied based on the days criteria -->
+  <logDays>70</logDays>
+  <!--For ex. 10 means the latest 10 days' SP4 logs will be copied.  -->
+  <outputDirectory>c:\GRGLogs</outputDirectory>
+  <!--Where all the logs will be copied -->
+  <CRMLogDays>1</CRMLogDays>
+  <!--For SP4 package registry values, how many days for the CRM log will be generated -->
+</configuration>

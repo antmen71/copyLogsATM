@@ -1,0 +1,546 @@
+8/20/2019 11:55:03 AM: <-------------------------Start-of-log-file------------------------->
+8/20/2019 11:55:03 AM: Log file siz was: . Log file not found. Created.
+8/20/2019 11:55:03 AM: Begin.
+8/20/2019 11:55:03 AM: Checking ATM type...
+8/20/2019 11:55:03 AM: ATM Machine type is H68V
+8/20/2019 11:55:03 AM: ATM is H68V
+8/20/2019 11:55:03 AM: Checking if ini file exists...
+8/20/2019 11:55:03 AM: ATM Machine type is H68V
+8/20/2019 11:55:03 AM: Ini file has found
+8/20/2019 11:55:03 AM: Checking registry keys for CRM/CDM log keys...
+8/20/2019 11:55:03 AM: ATM type is H68V, no need to check the registry keys.
+8/20/2019 11:55:03 AM: Target path is: C:\GRGLogs
+8/20/2019 11:55:06 AM: The contents of the target log folder have been deleted.
+8/20/2019 11:55:06 AM: Log Copy begins.
+8/20/2019 11:55:06 AM: Reading date information from ini file...
+8/20/2019 11:55:06 AM: Checking beginning and ending days validity...
+8/20/2019 11:55:06 AM: Entered getLogDatesArray section. Creating log days array...
+8/20/2019 11:55:06 AM: Beginning date is: 6/11/2019
+8/20/2019 11:55:06 AM: Ending date is: 8/20/2019
+8/20/2019 11:55:06 AM: Exited getLogDaysArray section.
+8/20/2019 11:55:06 AM: Entered sp4Log section.
+8/20/2019 11:55:39 AM: sp4 output folder is created under C:\GRGLogs
+8/20/2019 11:55:39 AM: 20190607_173928_20190627_165620.zip is copied from C:\GrgBanking\Log\20190607_173928_20190627_165620.zip to C:\GRGLogs\sp4
+8/20/2019 11:55:39 AM: 20190627_165620_20190628_111840.zip is copied from C:\GrgBanking\Log\20190627_165620_20190628_111840.zip to C:\GRGLogs\sp4
+8/20/2019 11:55:39 AM: 20190628_111840_20190710_160934.zip is copied from C:\GrgBanking\Log\20190628_111840_20190710_160934.zip to C:\GRGLogs\sp4
+8/20/2019 11:55:39 AM: 20190710_160934_20190711_162353.zip is copied from C:\GrgBanking\Log\20190710_160934_20190711_162353.zip to C:\GRGLogs\sp4
+8/20/2019 11:55:39 AM: 20190711_162353_20190807_191037.zip is copied from C:\GrgBanking\Log\20190711_162353_20190807_191037.zip to C:\GRGLogs\sp4
+8/20/2019 11:55:39 AM: 20190807_191037_20190808_130948.zip is copied from C:\GrgBanking\Log\20190807_191037_20190808_130948.zip to C:\GRGLogs\sp4
+8/20/2019 11:55:39 AM: 20190808_130948_20190809_110020.zip is copied from C:\GrgBanking\Log\20190808_130948_20190809_110020.zip to C:\GRGLogs\sp4
+8/20/2019 11:55:41 AM: grgsp.grglog is copied from C:\GrgBanking\Log\grgsp.grglog to C:\GRGLogs\sp4
+8/20/2019 11:55:43 AM: Exited sp4Log section
+8/20/2019 11:55:44 AM: Entered sp5Log section
+8/20/2019 11:55:47 AM: sp5 output folder is created under C:\GRGLogs
+8/20/2019 11:55:48 AM: grglog.dxdb is copied from C:\GrgBanking\Log\grglog.dxdb to C:\GRGLogs\sp5
+8/20/2019 11:55:50 AM: Exited sp5Log section
+8/20/2019 11:55:50 AM: Entered CRM/CDM log section.
+8/20/2019 11:56:31 AM: <-------------------------Start-of-log-file------------------------->
+8/20/2019 11:56:31 AM: Log file siz was: 2787. The log file has not been deleted
+8/20/2019 11:56:31 AM: Begin.
+8/20/2019 11:56:31 AM: Checking ATM type...
+8/20/2019 11:56:31 AM: ATM Machine type is H68V
+8/20/2019 11:56:31 AM: ATM is H68V
+8/20/2019 11:56:31 AM: Checking if ini file exists...
+8/20/2019 11:56:31 AM: ATM Machine type is H68V
+8/20/2019 11:56:31 AM: Ini file has found
+8/20/2019 11:56:31 AM: Checking registry keys for CRM/CDM log keys...
+8/20/2019 11:56:31 AM: ATM type is H68V, no need to check the registry keys.
+8/20/2019 11:56:31 AM: Target path is: C:\GRGLogs
+8/20/2019 11:56:35 AM: The contents of the target log folder have been deleted.
+8/20/2019 11:56:35 AM: Log Copy begins.
+8/20/2019 11:56:35 AM: Reading date information from ini file...
+8/20/2019 11:56:35 AM: Checking beginning and ending days validity...
+8/20/2019 11:56:35 AM: Entered getLogDatesArray section. Creating log days array...
+8/20/2019 11:56:35 AM: Beginning date is: 6/11/2019
+8/20/2019 11:56:35 AM: Ending date is: 8/20/2019
+8/20/2019 11:56:35 AM: Exited getLogDaysArray section.
+8/20/2019 11:56:35 AM: Entered sp4Log section.
+8/20/2019 11:56:35 AM: sp4 output folder is created under C:\GRGLogs
+8/20/2019 11:56:35 AM: 20190607_173928_20190627_165620.zip is copied from C:\GrgBanking\Log\20190607_173928_20190627_165620.zip to C:\GRGLogs\sp4
+8/20/2019 11:56:35 AM: 20190627_165620_20190628_111840.zip is copied from C:\GrgBanking\Log\20190627_165620_20190628_111840.zip to C:\GRGLogs\sp4
+8/20/2019 11:56:35 AM: 20190628_111840_20190710_160934.zip is copied from C:\GrgBanking\Log\20190628_111840_20190710_160934.zip to C:\GRGLogs\sp4
+8/20/2019 11:56:35 AM: 20190710_160934_20190711_162353.zip is copied from C:\GrgBanking\Log\20190710_160934_20190711_162353.zip to C:\GRGLogs\sp4
+8/20/2019 11:56:35 AM: 20190711_162353_20190807_191037.zip is copied from C:\GrgBanking\Log\20190711_162353_20190807_191037.zip to C:\GRGLogs\sp4
+8/20/2019 11:56:35 AM: 20190807_191037_20190808_130948.zip is copied from C:\GrgBanking\Log\20190807_191037_20190808_130948.zip to C:\GRGLogs\sp4
+8/20/2019 11:56:35 AM: 20190808_130948_20190809_110020.zip is copied from C:\GrgBanking\Log\20190808_130948_20190809_110020.zip to C:\GRGLogs\sp4
+8/20/2019 11:56:35 AM: grgsp.grglog is copied from C:\GrgBanking\Log\grgsp.grglog to C:\GRGLogs\sp4
+8/20/2019 11:56:35 AM: Exited sp4Log section
+8/20/2019 11:56:35 AM: Entered sp5Log section
+8/20/2019 11:56:35 AM: sp5 output folder is created under C:\GRGLogs
+8/20/2019 11:56:35 AM: grglog.dxdb is copied from C:\GrgBanking\Log\grglog.dxdb to C:\GRGLogs\sp5
+8/20/2019 11:56:35 AM: Exited sp5Log section
+8/20/2019 11:56:35 AM: Entered CRM/CDM log section.
+8/20/2019 11:56:35 AM: Cash device type is: H68V
+8/20/2019 11:56:35 AM: Cash device type is: H68V
+8/20/2019 11:56:35 AM: CRMLog list is empty. No logs will be copied.
+8/20/2019 11:56:35 AM: Entered driverLogs section.
+8/20/2019 11:56:35 AM: driverLogs output folder is created under C:\GRGLogs
+8/20/2019 11:56:35 AM: CARDREADER(2019-07-10).log is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\CARDREADER(2019-07-10).log to C:\GRGLogs\driverLogs
+8/20/2019 11:56:35 AM: CARDREADER(2019-07-11).log is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\CARDREADER(2019-07-11).log to C:\GRGLogs\driverLogs
+8/20/2019 11:56:35 AM: CARDREADER(2019-08-07).log is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\CARDREADER(2019-08-07).log to C:\GRGLogs\driverLogs
+8/20/2019 11:56:35 AM: CARDREADER(2019-08-08).log is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\CARDREADER(2019-08-08).log to C:\GRGLogs\driverLogs
+8/20/2019 11:56:35 AM: CARDREADER(2019-08-09).log is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\CARDREADER(2019-08-09).log to C:\GRGLogs\driverLogs
+8/20/2019 11:56:35 AM: Crm9250(2019-07-10).log is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\Crm9250(2019-07-10).log to C:\GRGLogs\driverLogs
+8/20/2019 11:56:35 AM: CRM9250(2019-07-10).txt is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\CRM9250(2019-07-10).txt to C:\GRGLogs\driverLogs
+8/20/2019 11:56:35 AM: Crm9250(2019-07-11).log is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\Crm9250(2019-07-11).log to C:\GRGLogs\driverLogs
+8/20/2019 11:56:35 AM: CRM9250(2019-07-11).txt is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\CRM9250(2019-07-11).txt to C:\GRGLogs\driverLogs
+8/20/2019 11:56:35 AM: Crm9250(2019-08-07).log is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\Crm9250(2019-08-07).log to C:\GRGLogs\driverLogs
+8/20/2019 11:56:35 AM: CRM9250(2019-08-07).txt is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\CRM9250(2019-08-07).txt to C:\GRGLogs\driverLogs
+8/20/2019 11:56:35 AM: Crm9250(2019-08-08).log is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\Crm9250(2019-08-08).log to C:\GRGLogs\driverLogs
+8/20/2019 11:56:35 AM: CRM9250(2019-08-08).txt is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\CRM9250(2019-08-08).txt to C:\GRGLogs\driverLogs
+8/20/2019 11:56:35 AM: Crm9250(2019-08-09).log is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\Crm9250(2019-08-09).log to C:\GRGLogs\driverLogs
+8/20/2019 11:56:35 AM: CRM9250(2019-08-09).txt is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\CRM9250(2019-08-09).txt to C:\GRGLogs\driverLogs
+8/20/2019 11:56:35 AM: ODepositDoorDevDll(2019-08-07).log is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\ODepositDoorDevDll(2019-08-07).log to C:\GRGLogs\driverLogs
+8/20/2019 11:56:35 AM: ODepositDoorDevDll(2019-08-08).log is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\ODepositDoorDevDll(2019-08-08).log to C:\GRGLogs\driverLogs
+8/20/2019 11:56:35 AM: ODepositDoorDevDll(2019-08-09).log is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\ODepositDoorDevDll(2019-08-09).log to C:\GRGLogs\driverLogs
+8/20/2019 11:56:35 AM: RECEIPTPRN(2019-07-10).log is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\RECEIPTPRN(2019-07-10).log to C:\GRGLogs\driverLogs
+8/20/2019 11:56:35 AM: RECEIPTPRN(2019-07-11).log is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\RECEIPTPRN(2019-07-11).log to C:\GRGLogs\driverLogs
+8/20/2019 11:56:35 AM: RECEIPTPRN(2019-08-07).log is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\RECEIPTPRN(2019-08-07).log to C:\GRGLogs\driverLogs
+8/20/2019 11:56:35 AM: RECEIPTPRN(2019-08-08).log is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\RECEIPTPRN(2019-08-08).log to C:\GRGLogs\driverLogs
+8/20/2019 11:56:35 AM: RECEIPTPRN(2019-08-09).log is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\RECEIPTPRN(2019-08-09).log to C:\GRGLogs\driverLogs
+8/20/2019 11:56:35 AM: USERKEY(2019-08-07).log is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\USERKEY(2019-08-07).log to C:\GRGLogs\driverLogs
+8/20/2019 11:56:35 AM: USERKEY(2019-08-08).log is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\USERKEY(2019-08-08).log to C:\GRGLogs\driverLogs
+8/20/2019 11:56:35 AM: USERKEY(2019-08-09).log is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\USERKEY(2019-08-09).log to C:\GRGLogs\driverLogs
+8/20/2019 11:56:35 AM: Exited driverLogs section.
+8/20/2019 11:56:35 AM: Entered duniteLogs section.
+8/20/2019 11:56:35 AM: duniteLogs output folder is created under C:\GRGLogs
+8/20/2019 11:56:35 AM: 15000(2019-07-11).zip is copied from C:\GrgBanking\log\hardware\15000(2019-07-11).zip to C:\GRGLogs\duniteLogs
+8/20/2019 11:56:35 AM: 15000(2019-07-12).zip is copied from C:\GrgBanking\log\hardware\15000(2019-07-12).zip to C:\GRGLogs\duniteLogs
+8/20/2019 11:56:35 AM: 15000(2019-08-07).zip is copied from C:\GrgBanking\log\hardware\15000(2019-08-07).zip to C:\GRGLogs\duniteLogs
+8/20/2019 11:56:35 AM: 15000(2019-08-08).zip is copied from C:\GrgBanking\log\hardware\15000(2019-08-08).zip to C:\GRGLogs\duniteLogs
+8/20/2019 11:56:35 AM: 15001(2019-07-11).zip is copied from C:\GrgBanking\log\hardware\15001(2019-07-11).zip to C:\GRGLogs\duniteLogs
+8/20/2019 11:56:35 AM: 15001(2019-07-12).zip is copied from C:\GrgBanking\log\hardware\15001(2019-07-12).zip to C:\GRGLogs\duniteLogs
+8/20/2019 11:56:35 AM: 15001(2019-08-07).zip is copied from C:\GrgBanking\log\hardware\15001(2019-08-07).zip to C:\GRGLogs\duniteLogs
+8/20/2019 11:56:35 AM: 15001(2019-08-08).zip is copied from C:\GrgBanking\log\hardware\15001(2019-08-08).zip to C:\GRGLogs\duniteLogs
+8/20/2019 11:56:35 AM: Exited duniteLogs section.
+8/20/2019 11:56:35 AM: Entered XFS Manager Logs section.
+8/20/2019 11:56:35 AM: xfsManLogs output folder is created under C:\GRGLogs
+8/20/2019 11:56:35 AM: 20190710_160919465.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190710_160919465.txt to C:\GRGLogs\xfsManLogs
+8/20/2019 11:56:35 AM: 20190710_170342931.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190710_170342931.txt to C:\GRGLogs\xfsManLogs
+8/20/2019 11:56:35 AM: 20190711_162339428.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190711_162339428.txt to C:\GRGLogs\xfsManLogs
+8/20/2019 11:56:35 AM: 20190711_162732421.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190711_162732421.txt to C:\GRGLogs\xfsManLogs
+8/20/2019 11:56:35 AM: 20190711_163034747.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190711_163034747.txt to C:\GRGLogs\xfsManLogs
+8/20/2019 11:56:35 AM: 20190711_163800989.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190711_163800989.txt to C:\GRGLogs\xfsManLogs
+8/20/2019 11:56:35 AM: 20190711_163912535.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190711_163912535.txt to C:\GRGLogs\xfsManLogs
+8/20/2019 11:56:35 AM: 20190806_113656361.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190806_113656361.txt to C:\GRGLogs\xfsManLogs
+8/20/2019 11:56:35 AM: 20190807_191027491.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190807_191027491.txt to C:\GRGLogs\xfsManLogs
+8/20/2019 11:56:35 AM: 20190807_191153431.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190807_191153431.txt to C:\GRGLogs\xfsManLogs
+8/20/2019 11:56:35 AM: 20190808_130939018.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190808_130939018.txt to C:\GRGLogs\xfsManLogs
+8/20/2019 11:56:35 AM: 20190808_152940213.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190808_152940213.txt to C:\GRGLogs\xfsManLogs
+8/20/2019 11:56:35 AM: 20190808_155658465.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190808_155658465.txt to C:\GRGLogs\xfsManLogs
+8/20/2019 11:56:35 AM: 20190809_110010151.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190809_110010151.txt to C:\GRGLogs\xfsManLogs
+8/20/2019 11:56:35 AM: 20190809_135840370.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190809_135840370.txt to C:\GRGLogs\xfsManLogs
+8/20/2019 11:56:35 AM: 20190809_140152903.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190809_140152903.txt to C:\GRGLogs\xfsManLogs
+8/20/2019 11:56:35 AM: 20190809_140153323.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190809_140153323.txt to C:\GRGLogs\xfsManLogs
+8/20/2019 11:56:35 AM: 20190809_140153750.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190809_140153750.txt to C:\GRGLogs\xfsManLogs
+8/20/2019 11:56:35 AM: 20190809_140154191.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190809_140154191.txt to C:\GRGLogs\xfsManLogs
+8/20/2019 11:56:35 AM: 20190809_140154587.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190809_140154587.txt to C:\GRGLogs\xfsManLogs
+8/20/2019 11:56:35 AM: 20190809_140155023.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190809_140155023.txt to C:\GRGLogs\xfsManLogs
+8/20/2019 11:56:35 AM: 20190809_140155443.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190809_140155443.txt to C:\GRGLogs\xfsManLogs
+8/20/2019 11:56:35 AM: 20190809_140155852.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190809_140155852.txt to C:\GRGLogs\xfsManLogs
+8/20/2019 11:56:35 AM: 20190809_140156297.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190809_140156297.txt to C:\GRGLogs\xfsManLogs
+8/20/2019 11:56:35 AM: 20190809_140156674.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190809_140156674.txt to C:\GRGLogs\xfsManLogs
+8/20/2019 11:56:35 AM: 20190809_140157082.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190809_140157082.txt to C:\GRGLogs\xfsManLogs
+8/20/2019 11:56:35 AM: 20190809_140157437.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190809_140157437.txt to C:\GRGLogs\xfsManLogs
+8/20/2019 11:56:35 AM: 20190809_140157810.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190809_140157810.txt to C:\GRGLogs\xfsManLogs
+8/20/2019 11:56:35 AM: 20190809_140158461.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190809_140158461.txt to C:\GRGLogs\xfsManLogs
+8/20/2019 11:56:35 AM: 20190809_140158816.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190809_140158816.txt to C:\GRGLogs\xfsManLogs
+8/20/2019 11:56:35 AM: 20190809_140159202.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190809_140159202.txt to C:\GRGLogs\xfsManLogs
+8/20/2019 11:56:35 AM: 20190809_140159839.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190809_140159839.txt to C:\GRGLogs\xfsManLogs
+8/20/2019 11:56:35 AM: 20190809_140200180.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190809_140200180.txt to C:\GRGLogs\xfsManLogs
+8/20/2019 11:56:35 AM: 20190809_140200553.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190809_140200553.txt to C:\GRGLogs\xfsManLogs
+8/20/2019 11:56:35 AM: 20190809_140200909.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190809_140200909.txt to C:\GRGLogs\xfsManLogs
+8/20/2019 11:56:35 AM: 20190809_140201593.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190809_140201593.txt to C:\GRGLogs\xfsManLogs
+8/20/2019 11:56:35 AM: 20190809_140215682.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190809_140215682.txt to C:\GRGLogs\xfsManLogs
+8/20/2019 11:56:35 AM: 20190809_140216196.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190809_140216196.txt to C:\GRGLogs\xfsManLogs
+8/20/2019 11:56:35 AM: 20190809_140216775.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190809_140216775.txt to C:\GRGLogs\xfsManLogs
+8/20/2019 11:56:35 AM: 20190809_140217489.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190809_140217489.txt to C:\GRGLogs\xfsManLogs
+8/20/2019 11:56:35 AM: 20190809_140218175.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190809_140218175.txt to C:\GRGLogs\xfsManLogs
+8/20/2019 11:56:35 AM: Exited XFS Manager Logs section.
+8/20/2019 11:56:35 AM: Entered YDCLogs section
+8/20/2019 11:56:35 AM: Exited YDCLogs section
+8/20/2019 11:56:35 AM: Entered Windows system log section
+8/20/2019 11:56:35 AM: windowsSystemLog output folder is created under C:\GRGLogs
+8/20/2019 11:56:35 AM: Windows system log has been copied.
+8/20/2019 11:56:35 AM: Exited Windows system log section
+8/20/2019 11:56:35 AM: Reached the end of the program section
+8/20/2019 11:56:35 AM: 00:00:04.2903185
+8/20/2019 11:56:35 AM: <--------------------------End-of-log-file-------------------------->
+8/20/2019 11:58:08 AM: <-------------------------Start-of-log-file------------------------->
+8/20/2019 11:58:08 AM: Log file siz was: 18098. The log file has not been deleted
+8/20/2019 11:58:08 AM: Begin.
+8/20/2019 11:58:08 AM: Checking ATM type...
+8/20/2019 11:58:08 AM: ATM Machine type is H68V
+8/20/2019 11:58:08 AM: ATM is H68V
+8/20/2019 11:58:08 AM: Checking if ini file exists...
+8/20/2019 11:58:08 AM: ATM Machine type is H68V
+8/20/2019 11:58:09 AM: Ini file has found
+8/20/2019 11:58:09 AM: Checking registry keys for CRM/CDM log keys...
+8/20/2019 11:58:09 AM: ATM type is H68V, no need to check the registry keys.
+8/20/2019 11:58:09 AM: Target path is: C:\GRGLogs
+8/20/2019 11:58:12 AM: The contents of the target log folder have been deleted.
+8/20/2019 11:58:12 AM: Log Copy begins.
+8/20/2019 11:58:12 AM: Reading date information from ini file...
+8/20/2019 11:58:12 AM: Checking beginning and ending days validity...
+8/20/2019 11:58:12 AM: Entered getLogDatesArray section. Creating log days array...
+8/20/2019 11:58:12 AM: Beginning date is: 6/11/2019
+8/20/2019 11:58:12 AM: Ending date is: 8/20/2019
+8/20/2019 11:58:12 AM: Exited getLogDaysArray section.
+8/20/2019 11:58:12 AM: Entered sp4Log section.
+8/20/2019 11:58:12 AM: sp4 output folder is created under C:\GRGLogs
+8/20/2019 11:58:12 AM: 20190607_173928_20190627_165620.zip is copied from C:\GrgBanking\Log\20190607_173928_20190627_165620.zip to C:\GRGLogs\sp4
+8/20/2019 11:58:12 AM: 20190627_165620_20190628_111840.zip is copied from C:\GrgBanking\Log\20190627_165620_20190628_111840.zip to C:\GRGLogs\sp4
+8/20/2019 11:58:12 AM: 20190628_111840_20190710_160934.zip is copied from C:\GrgBanking\Log\20190628_111840_20190710_160934.zip to C:\GRGLogs\sp4
+8/20/2019 11:58:12 AM: 20190710_160934_20190711_162353.zip is copied from C:\GrgBanking\Log\20190710_160934_20190711_162353.zip to C:\GRGLogs\sp4
+8/20/2019 11:58:12 AM: 20190711_162353_20190807_191037.zip is copied from C:\GrgBanking\Log\20190711_162353_20190807_191037.zip to C:\GRGLogs\sp4
+8/20/2019 11:58:12 AM: 20190807_191037_20190808_130948.zip is copied from C:\GrgBanking\Log\20190807_191037_20190808_130948.zip to C:\GRGLogs\sp4
+8/20/2019 11:58:12 AM: 20190808_130948_20190809_110020.zip is copied from C:\GrgBanking\Log\20190808_130948_20190809_110020.zip to C:\GRGLogs\sp4
+8/20/2019 11:58:23 AM: grgsp.grglog is copied from C:\GrgBanking\Log\grgsp.grglog to C:\GRGLogs\sp4
+8/20/2019 11:58:24 AM: Exited sp4Log section
+8/20/2019 11:58:24 AM: Entered sp5Log section
+8/20/2019 11:58:33 AM: sp5 output folder is created under C:\GRGLogs
+8/20/2019 11:58:36 AM: grglog.dxdb is copied from C:\GrgBanking\Log\grglog.dxdb to C:\GRGLogs\sp5
+8/20/2019 11:58:36 AM: Exited sp5Log section
+8/20/2019 11:58:40 AM: Entered CRM/CDM log section.
+8/20/2019 12:00:48 PM: <-------------------------Start-of-log-file------------------------->
+8/20/2019 12:00:48 PM: Log file siz was: 20895. The log file has not been deleted
+8/20/2019 12:00:48 PM: Begin.
+8/20/2019 12:00:48 PM: Checking ATM type...
+8/20/2019 12:00:48 PM: ATM Machine type is H68V
+8/20/2019 12:00:48 PM: ATM is H68V
+8/20/2019 12:00:48 PM: Checking if ini file exists...
+8/20/2019 12:00:48 PM: ATM Machine type is H68V
+8/20/2019 12:00:49 PM: Ini file has found
+8/20/2019 12:00:49 PM: Checking registry keys for CRM/CDM log keys...
+8/20/2019 12:00:49 PM: ATM type is H68V, no need to check the registry keys.
+8/20/2019 12:00:49 PM: Target path is: C:\GRGLogs
+8/20/2019 12:00:52 PM: The contents of the target log folder have been deleted.
+8/20/2019 12:00:52 PM: Log Copy begins.
+8/20/2019 12:00:52 PM: Reading date information from ini file...
+8/20/2019 12:00:52 PM: Checking beginning and ending days validity...
+8/20/2019 12:00:52 PM: Entered getLogDatesArray section. Creating log days array...
+8/20/2019 12:00:52 PM: Beginning date is: 6/11/2019
+8/20/2019 12:00:52 PM: Ending date is: 8/20/2019
+8/20/2019 12:00:52 PM: Exited getLogDaysArray section.
+8/20/2019 12:00:52 PM: Entered sp4Log section.
+8/20/2019 12:00:52 PM: sp4 output folder is created under C:\GRGLogs
+8/20/2019 12:00:52 PM: 20190607_173928_20190627_165620.zip is copied from C:\GrgBanking\Log\20190607_173928_20190627_165620.zip to C:\GRGLogs\sp4
+8/20/2019 12:00:52 PM: 20190627_165620_20190628_111840.zip is copied from C:\GrgBanking\Log\20190627_165620_20190628_111840.zip to C:\GRGLogs\sp4
+8/20/2019 12:00:52 PM: 20190628_111840_20190710_160934.zip is copied from C:\GrgBanking\Log\20190628_111840_20190710_160934.zip to C:\GRGLogs\sp4
+8/20/2019 12:00:52 PM: 20190710_160934_20190711_162353.zip is copied from C:\GrgBanking\Log\20190710_160934_20190711_162353.zip to C:\GRGLogs\sp4
+8/20/2019 12:00:52 PM: 20190711_162353_20190807_191037.zip is copied from C:\GrgBanking\Log\20190711_162353_20190807_191037.zip to C:\GRGLogs\sp4
+8/20/2019 12:00:52 PM: 20190807_191037_20190808_130948.zip is copied from C:\GrgBanking\Log\20190807_191037_20190808_130948.zip to C:\GRGLogs\sp4
+8/20/2019 12:00:52 PM: 20190808_130948_20190809_110020.zip is copied from C:\GrgBanking\Log\20190808_130948_20190809_110020.zip to C:\GRGLogs\sp4
+8/20/2019 12:00:55 PM: grgsp.grglog is copied from C:\GrgBanking\Log\grgsp.grglog to C:\GRGLogs\sp4
+8/20/2019 12:00:56 PM: Exited sp4Log section
+8/20/2019 12:00:56 PM: Entered sp5Log section
+8/20/2019 12:01:01 PM: sp5 output folder is created under C:\GRGLogs
+8/20/2019 12:01:01 PM: grglog.dxdb is copied from C:\GrgBanking\Log\grglog.dxdb to C:\GRGLogs\sp5
+8/20/2019 12:01:02 PM: Exited sp5Log section
+8/20/2019 12:01:02 PM: Entered CRM/CDM log section.
+8/20/2019 12:04:46 PM: <-------------------------Start-of-log-file------------------------->
+8/20/2019 12:04:46 PM: Log file siz was: 23692. The log file has not been deleted
+8/20/2019 12:04:46 PM: Begin.
+8/20/2019 12:04:46 PM: Checking ATM type...
+8/20/2019 12:04:46 PM: ATM Machine type is H68V
+8/20/2019 12:04:46 PM: ATM is H68V
+8/20/2019 12:04:46 PM: Checking if ini file exists...
+8/20/2019 12:04:46 PM: ATM Machine type is H68V
+8/20/2019 12:04:47 PM: Ini file has found
+8/20/2019 12:04:47 PM: Checking registry keys for CRM/CDM log keys...
+8/20/2019 12:04:47 PM: ATM type is H68V, no need to check the registry keys.
+8/20/2019 12:04:47 PM: Target path is: C:\GRGLogs
+8/20/2019 12:04:50 PM: The contents of the target log folder have been deleted.
+8/20/2019 12:04:50 PM: Log Copy begins.
+8/20/2019 12:04:50 PM: Reading date information from ini file...
+8/20/2019 12:04:50 PM: Checking beginning and ending days validity...
+8/20/2019 12:04:50 PM: Entered getLogDatesArray section. Creating log days array...
+8/20/2019 12:04:50 PM: Beginning date is: 6/11/2019
+8/20/2019 12:04:50 PM: Ending date is: 8/20/2019
+8/20/2019 12:04:50 PM: Exited getLogDaysArray section.
+8/20/2019 12:04:50 PM: Entered sp4Log section.
+8/20/2019 12:04:50 PM: sp4 output folder is created under C:\GRGLogs
+8/20/2019 12:04:50 PM: 20190607_173928_20190627_165620.zip is copied from C:\GrgBanking\Log\20190607_173928_20190627_165620.zip to C:\GRGLogs\sp4
+8/20/2019 12:04:50 PM: 20190627_165620_20190628_111840.zip is copied from C:\GrgBanking\Log\20190627_165620_20190628_111840.zip to C:\GRGLogs\sp4
+8/20/2019 12:04:50 PM: 20190628_111840_20190710_160934.zip is copied from C:\GrgBanking\Log\20190628_111840_20190710_160934.zip to C:\GRGLogs\sp4
+8/20/2019 12:04:50 PM: 20190710_160934_20190711_162353.zip is copied from C:\GrgBanking\Log\20190710_160934_20190711_162353.zip to C:\GRGLogs\sp4
+8/20/2019 12:04:50 PM: 20190711_162353_20190807_191037.zip is copied from C:\GrgBanking\Log\20190711_162353_20190807_191037.zip to C:\GRGLogs\sp4
+8/20/2019 12:04:50 PM: 20190807_191037_20190808_130948.zip is copied from C:\GrgBanking\Log\20190807_191037_20190808_130948.zip to C:\GRGLogs\sp4
+8/20/2019 12:04:50 PM: 20190808_130948_20190809_110020.zip is copied from C:\GrgBanking\Log\20190808_130948_20190809_110020.zip to C:\GRGLogs\sp4
+8/20/2019 12:04:50 PM: grgsp.grglog is copied from C:\GrgBanking\Log\grgsp.grglog to C:\GRGLogs\sp4
+8/20/2019 12:04:50 PM: Exited sp4Log section
+8/20/2019 12:04:50 PM: Entered sp5Log section
+8/20/2019 12:04:50 PM: sp5 output folder is created under C:\GRGLogs
+8/20/2019 12:04:50 PM: grglog.dxdb is copied from C:\GrgBanking\Log\grglog.dxdb to C:\GRGLogs\sp5
+8/20/2019 12:04:50 PM: Exited sp5Log section
+8/20/2019 12:04:50 PM: Entered CRM/CDM log section.
+8/20/2019 12:05:52 PM: <-------------------------Start-of-log-file------------------------->
+8/20/2019 12:05:52 PM: Log file siz was: 26489. The log file has not been deleted
+8/20/2019 12:05:52 PM: Begin.
+8/20/2019 12:05:52 PM: Checking ATM type...
+8/20/2019 12:05:52 PM: ATM Machine type is H68V
+8/20/2019 12:05:52 PM: ATM is H68V
+8/20/2019 12:05:52 PM: Checking if ini file exists...
+8/20/2019 12:05:52 PM: ATM Machine type is H68V
+8/20/2019 12:05:52 PM: Ini file has found
+8/20/2019 12:05:52 PM: Checking registry keys for CRM/CDM log keys...
+8/20/2019 12:05:52 PM: ATM type is H68V, no need to check the registry keys.
+8/20/2019 12:05:52 PM: Target path is: C:\GRGLogs
+8/20/2019 12:05:55 PM: The contents of the target log folder have been deleted.
+8/20/2019 12:05:55 PM: Log Copy begins.
+8/20/2019 12:05:55 PM: Reading date information from ini file...
+8/20/2019 12:05:55 PM: Checking beginning and ending days validity...
+8/20/2019 12:05:55 PM: Entered getLogDatesArray section. Creating log days array...
+8/20/2019 12:05:55 PM: Beginning date is: 6/11/2019
+8/20/2019 12:05:55 PM: Ending date is: 8/20/2019
+8/20/2019 12:05:55 PM: Exited getLogDaysArray section.
+8/20/2019 12:05:55 PM: Entered sp4Log section.
+8/20/2019 12:05:55 PM: sp4 output folder is created under C:\GRGLogs
+8/20/2019 12:05:55 PM: 20190607_173928_20190627_165620.zip is copied from C:\GrgBanking\Log\20190607_173928_20190627_165620.zip to C:\GRGLogs\sp4
+8/20/2019 12:05:55 PM: 20190627_165620_20190628_111840.zip is copied from C:\GrgBanking\Log\20190627_165620_20190628_111840.zip to C:\GRGLogs\sp4
+8/20/2019 12:05:55 PM: 20190628_111840_20190710_160934.zip is copied from C:\GrgBanking\Log\20190628_111840_20190710_160934.zip to C:\GRGLogs\sp4
+8/20/2019 12:05:55 PM: 20190710_160934_20190711_162353.zip is copied from C:\GrgBanking\Log\20190710_160934_20190711_162353.zip to C:\GRGLogs\sp4
+8/20/2019 12:05:55 PM: 20190711_162353_20190807_191037.zip is copied from C:\GrgBanking\Log\20190711_162353_20190807_191037.zip to C:\GRGLogs\sp4
+8/20/2019 12:05:55 PM: 20190807_191037_20190808_130948.zip is copied from C:\GrgBanking\Log\20190807_191037_20190808_130948.zip to C:\GRGLogs\sp4
+8/20/2019 12:05:55 PM: 20190808_130948_20190809_110020.zip is copied from C:\GrgBanking\Log\20190808_130948_20190809_110020.zip to C:\GRGLogs\sp4
+8/20/2019 12:05:55 PM: grgsp.grglog is copied from C:\GrgBanking\Log\grgsp.grglog to C:\GRGLogs\sp4
+8/20/2019 12:05:55 PM: Exited sp4Log section
+8/20/2019 12:05:55 PM: Entered sp5Log section
+8/20/2019 12:05:55 PM: sp5 output folder is created under C:\GRGLogs
+8/20/2019 12:05:55 PM: grglog.dxdb is copied from C:\GrgBanking\Log\grglog.dxdb to C:\GRGLogs\sp5
+8/20/2019 12:05:55 PM: Exited sp5Log section
+8/20/2019 12:05:55 PM: Entered CRM/CDM log section.
+8/20/2019 12:05:55 PM: Cash device type is: H68V
+8/20/2019 12:05:55 PM: Cash device type is: H68V
+8/20/2019 12:05:55 PM: CRMLog output folder is created under C:\GRGLogs
+8/20/2019 12:05:55 PM: CRM9250NLog_20190628.txt is copied from C:\GRGBanking\Log\Hardware\CRM9250NLog\CRM9250NLog_20190628.txt to C:\GRGLogs\CRMLog
+8/20/2019 12:05:55 PM: CRM9250NLog_20190629.txt is copied from C:\GRGBanking\Log\Hardware\CRM9250NLog\CRM9250NLog_20190629.txt to C:\GRGLogs\CRMLog
+8/20/2019 12:05:55 PM: CRM9250NLog_20190630.txt is copied from C:\GRGBanking\Log\Hardware\CRM9250NLog\CRM9250NLog_20190630.txt to C:\GRGLogs\CRMLog
+8/20/2019 12:05:55 PM: CRM9250NLog_20190701.txt is copied from C:\GRGBanking\Log\Hardware\CRM9250NLog\CRM9250NLog_20190701.txt to C:\GRGLogs\CRMLog
+8/20/2019 12:05:55 PM: CRM9250NLog_20190702.txt is copied from C:\GRGBanking\Log\Hardware\CRM9250NLog\CRM9250NLog_20190702.txt to C:\GRGLogs\CRMLog
+8/20/2019 12:05:55 PM: CRM9250NLog_20190703.txt is copied from C:\GRGBanking\Log\Hardware\CRM9250NLog\CRM9250NLog_20190703.txt to C:\GRGLogs\CRMLog
+8/20/2019 12:05:55 PM: Entered driverLogs section.
+8/20/2019 12:05:55 PM: driverLogs output folder is created under C:\GRGLogs
+8/20/2019 12:05:55 PM: CARDREADER(2019-07-10).log is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\CARDREADER(2019-07-10).log to C:\GRGLogs\driverLogs
+8/20/2019 12:05:56 PM: CARDREADER(2019-07-11).log is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\CARDREADER(2019-07-11).log to C:\GRGLogs\driverLogs
+8/20/2019 12:05:56 PM: CARDREADER(2019-08-07).log is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\CARDREADER(2019-08-07).log to C:\GRGLogs\driverLogs
+8/20/2019 12:05:56 PM: CARDREADER(2019-08-08).log is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\CARDREADER(2019-08-08).log to C:\GRGLogs\driverLogs
+8/20/2019 12:05:56 PM: CARDREADER(2019-08-09).log is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\CARDREADER(2019-08-09).log to C:\GRGLogs\driverLogs
+8/20/2019 12:05:56 PM: Crm9250(2019-07-10).log is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\Crm9250(2019-07-10).log to C:\GRGLogs\driverLogs
+8/20/2019 12:05:56 PM: CRM9250(2019-07-10).txt is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\CRM9250(2019-07-10).txt to C:\GRGLogs\driverLogs
+8/20/2019 12:05:56 PM: Crm9250(2019-07-11).log is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\Crm9250(2019-07-11).log to C:\GRGLogs\driverLogs
+8/20/2019 12:05:56 PM: CRM9250(2019-07-11).txt is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\CRM9250(2019-07-11).txt to C:\GRGLogs\driverLogs
+8/20/2019 12:05:56 PM: Crm9250(2019-08-07).log is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\Crm9250(2019-08-07).log to C:\GRGLogs\driverLogs
+8/20/2019 12:05:56 PM: CRM9250(2019-08-07).txt is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\CRM9250(2019-08-07).txt to C:\GRGLogs\driverLogs
+8/20/2019 12:05:56 PM: Crm9250(2019-08-08).log is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\Crm9250(2019-08-08).log to C:\GRGLogs\driverLogs
+8/20/2019 12:05:56 PM: CRM9250(2019-08-08).txt is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\CRM9250(2019-08-08).txt to C:\GRGLogs\driverLogs
+8/20/2019 12:05:56 PM: Crm9250(2019-08-09).log is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\Crm9250(2019-08-09).log to C:\GRGLogs\driverLogs
+8/20/2019 12:05:56 PM: CRM9250(2019-08-09).txt is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\CRM9250(2019-08-09).txt to C:\GRGLogs\driverLogs
+8/20/2019 12:05:56 PM: ODepositDoorDevDll(2019-08-07).log is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\ODepositDoorDevDll(2019-08-07).log to C:\GRGLogs\driverLogs
+8/20/2019 12:05:56 PM: ODepositDoorDevDll(2019-08-08).log is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\ODepositDoorDevDll(2019-08-08).log to C:\GRGLogs\driverLogs
+8/20/2019 12:05:56 PM: ODepositDoorDevDll(2019-08-09).log is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\ODepositDoorDevDll(2019-08-09).log to C:\GRGLogs\driverLogs
+8/20/2019 12:05:56 PM: RECEIPTPRN(2019-07-10).log is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\RECEIPTPRN(2019-07-10).log to C:\GRGLogs\driverLogs
+8/20/2019 12:05:56 PM: RECEIPTPRN(2019-07-11).log is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\RECEIPTPRN(2019-07-11).log to C:\GRGLogs\driverLogs
+8/20/2019 12:05:56 PM: RECEIPTPRN(2019-08-07).log is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\RECEIPTPRN(2019-08-07).log to C:\GRGLogs\driverLogs
+8/20/2019 12:05:56 PM: RECEIPTPRN(2019-08-08).log is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\RECEIPTPRN(2019-08-08).log to C:\GRGLogs\driverLogs
+8/20/2019 12:05:56 PM: RECEIPTPRN(2019-08-09).log is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\RECEIPTPRN(2019-08-09).log to C:\GRGLogs\driverLogs
+8/20/2019 12:05:56 PM: USERKEY(2019-08-07).log is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\USERKEY(2019-08-07).log to C:\GRGLogs\driverLogs
+8/20/2019 12:05:56 PM: USERKEY(2019-08-08).log is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\USERKEY(2019-08-08).log to C:\GRGLogs\driverLogs
+8/20/2019 12:05:56 PM: USERKEY(2019-08-09).log is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\USERKEY(2019-08-09).log to C:\GRGLogs\driverLogs
+8/20/2019 12:05:56 PM: Exited driverLogs section.
+8/20/2019 12:05:56 PM: Entered duniteLogs section.
+8/20/2019 12:05:56 PM: duniteLogs output folder is created under C:\GRGLogs
+8/20/2019 12:05:56 PM: 15000(2019-07-11).zip is copied from C:\GrgBanking\log\hardware\15000(2019-07-11).zip to C:\GRGLogs\duniteLogs
+8/20/2019 12:05:56 PM: 15000(2019-07-12).zip is copied from C:\GrgBanking\log\hardware\15000(2019-07-12).zip to C:\GRGLogs\duniteLogs
+8/20/2019 12:05:56 PM: 15000(2019-08-07).zip is copied from C:\GrgBanking\log\hardware\15000(2019-08-07).zip to C:\GRGLogs\duniteLogs
+8/20/2019 12:05:56 PM: 15000(2019-08-08).zip is copied from C:\GrgBanking\log\hardware\15000(2019-08-08).zip to C:\GRGLogs\duniteLogs
+8/20/2019 12:05:56 PM: 15001(2019-07-11).zip is copied from C:\GrgBanking\log\hardware\15001(2019-07-11).zip to C:\GRGLogs\duniteLogs
+8/20/2019 12:05:56 PM: 15001(2019-07-12).zip is copied from C:\GrgBanking\log\hardware\15001(2019-07-12).zip to C:\GRGLogs\duniteLogs
+8/20/2019 12:05:56 PM: 15001(2019-08-07).zip is copied from C:\GrgBanking\log\hardware\15001(2019-08-07).zip to C:\GRGLogs\duniteLogs
+8/20/2019 12:05:56 PM: 15001(2019-08-08).zip is copied from C:\GrgBanking\log\hardware\15001(2019-08-08).zip to C:\GRGLogs\duniteLogs
+8/20/2019 12:05:56 PM: Exited duniteLogs section.
+8/20/2019 12:05:56 PM: Entered XFS Manager Logs section.
+8/20/2019 12:05:56 PM: xfsManLogs output folder is created under C:\GRGLogs
+8/20/2019 12:05:56 PM: 20190710_160919465.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190710_160919465.txt to C:\GRGLogs\xfsManLogs
+8/20/2019 12:05:56 PM: 20190710_170342931.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190710_170342931.txt to C:\GRGLogs\xfsManLogs
+8/20/2019 12:05:56 PM: 20190711_162339428.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190711_162339428.txt to C:\GRGLogs\xfsManLogs
+8/20/2019 12:05:56 PM: 20190711_162732421.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190711_162732421.txt to C:\GRGLogs\xfsManLogs
+8/20/2019 12:05:56 PM: 20190711_163034747.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190711_163034747.txt to C:\GRGLogs\xfsManLogs
+8/20/2019 12:05:56 PM: 20190711_163800989.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190711_163800989.txt to C:\GRGLogs\xfsManLogs
+8/20/2019 12:05:56 PM: 20190711_163912535.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190711_163912535.txt to C:\GRGLogs\xfsManLogs
+8/20/2019 12:05:56 PM: 20190806_113656361.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190806_113656361.txt to C:\GRGLogs\xfsManLogs
+8/20/2019 12:05:56 PM: 20190807_191027491.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190807_191027491.txt to C:\GRGLogs\xfsManLogs
+8/20/2019 12:05:56 PM: 20190807_191153431.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190807_191153431.txt to C:\GRGLogs\xfsManLogs
+8/20/2019 12:05:56 PM: 20190808_130939018.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190808_130939018.txt to C:\GRGLogs\xfsManLogs
+8/20/2019 12:05:56 PM: 20190808_152940213.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190808_152940213.txt to C:\GRGLogs\xfsManLogs
+8/20/2019 12:05:56 PM: 20190808_155658465.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190808_155658465.txt to C:\GRGLogs\xfsManLogs
+8/20/2019 12:05:56 PM: 20190809_110010151.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190809_110010151.txt to C:\GRGLogs\xfsManLogs
+8/20/2019 12:05:56 PM: 20190809_135840370.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190809_135840370.txt to C:\GRGLogs\xfsManLogs
+8/20/2019 12:05:56 PM: 20190809_140152903.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190809_140152903.txt to C:\GRGLogs\xfsManLogs
+8/20/2019 12:05:56 PM: 20190809_140153323.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190809_140153323.txt to C:\GRGLogs\xfsManLogs
+8/20/2019 12:05:56 PM: 20190809_140153750.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190809_140153750.txt to C:\GRGLogs\xfsManLogs
+8/20/2019 12:05:56 PM: 20190809_140154191.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190809_140154191.txt to C:\GRGLogs\xfsManLogs
+8/20/2019 12:05:56 PM: 20190809_140154587.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190809_140154587.txt to C:\GRGLogs\xfsManLogs
+8/20/2019 12:05:56 PM: 20190809_140155023.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190809_140155023.txt to C:\GRGLogs\xfsManLogs
+8/20/2019 12:05:56 PM: 20190809_140155443.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190809_140155443.txt to C:\GRGLogs\xfsManLogs
+8/20/2019 12:05:56 PM: 20190809_140155852.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190809_140155852.txt to C:\GRGLogs\xfsManLogs
+8/20/2019 12:05:56 PM: 20190809_140156297.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190809_140156297.txt to C:\GRGLogs\xfsManLogs
+8/20/2019 12:05:56 PM: 20190809_140156674.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190809_140156674.txt to C:\GRGLogs\xfsManLogs
+8/20/2019 12:05:56 PM: 20190809_140157082.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190809_140157082.txt to C:\GRGLogs\xfsManLogs
+8/20/2019 12:05:56 PM: 20190809_140157437.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190809_140157437.txt to C:\GRGLogs\xfsManLogs
+8/20/2019 12:05:56 PM: 20190809_140157810.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190809_140157810.txt to C:\GRGLogs\xfsManLogs
+8/20/2019 12:05:56 PM: 20190809_140158461.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190809_140158461.txt to C:\GRGLogs\xfsManLogs
+8/20/2019 12:05:56 PM: 20190809_140158816.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190809_140158816.txt to C:\GRGLogs\xfsManLogs
+8/20/2019 12:05:56 PM: 20190809_140159202.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190809_140159202.txt to C:\GRGLogs\xfsManLogs
+8/20/2019 12:05:56 PM: 20190809_140159839.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190809_140159839.txt to C:\GRGLogs\xfsManLogs
+8/20/2019 12:05:56 PM: 20190809_140200180.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190809_140200180.txt to C:\GRGLogs\xfsManLogs
+8/20/2019 12:05:56 PM: 20190809_140200553.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190809_140200553.txt to C:\GRGLogs\xfsManLogs
+8/20/2019 12:05:56 PM: 20190809_140200909.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190809_140200909.txt to C:\GRGLogs\xfsManLogs
+8/20/2019 12:05:56 PM: 20190809_140201593.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190809_140201593.txt to C:\GRGLogs\xfsManLogs
+8/20/2019 12:05:56 PM: 20190809_140215682.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190809_140215682.txt to C:\GRGLogs\xfsManLogs
+8/20/2019 12:05:56 PM: 20190809_140216196.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190809_140216196.txt to C:\GRGLogs\xfsManLogs
+8/20/2019 12:05:56 PM: 20190809_140216775.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190809_140216775.txt to C:\GRGLogs\xfsManLogs
+8/20/2019 12:05:56 PM: 20190809_140217489.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190809_140217489.txt to C:\GRGLogs\xfsManLogs
+8/20/2019 12:05:56 PM: 20190809_140218175.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190809_140218175.txt to C:\GRGLogs\xfsManLogs
+8/20/2019 12:05:56 PM: Exited XFS Manager Logs section.
+8/20/2019 12:05:56 PM: Entered YDCLogs section
+8/20/2019 12:05:56 PM: Exited YDCLogs section
+8/20/2019 12:05:56 PM: Entered Windows system log section
+8/20/2019 12:05:56 PM: windowsSystemLog output folder is created under C:\GRGLogs
+8/20/2019 12:05:56 PM: Windows system log has been copied.
+8/20/2019 12:05:56 PM: Exited Windows system log section
+8/20/2019 12:05:56 PM: Reached the end of the program section
+8/20/2019 12:05:56 PM: 00:00:04.2998606
+8/20/2019 12:05:56 PM: <--------------------------End-of-log-file-------------------------->
+8/21/2019 1:04:43 PM: <-------------------------Start-of-log-file------------------------->
+8/21/2019 1:04:43 PM: Log file siz was: 42698. The log file has not been deleted
+8/21/2019 1:04:43 PM: Begin.
+8/21/2019 1:04:43 PM: Checking ATM type...
+8/21/2019 1:04:43 PM: ATM Machine type is H68V
+8/21/2019 1:04:43 PM: ATM is H68V
+8/21/2019 1:04:43 PM: Checking if ini file exists...
+8/21/2019 1:04:43 PM: ATM Machine type is H68V
+8/21/2019 1:04:44 PM: Ini file has found
+8/21/2019 1:04:44 PM: Checking registry keys for CRM/CDM log keys...
+8/21/2019 1:04:44 PM: ATM type is H68V, no need to check the registry keys.
+8/21/2019 1:04:44 PM: Target path is: C:\GRGLogs
+8/21/2019 1:04:47 PM: The contents of the target log folder have been deleted.
+8/21/2019 1:04:47 PM: Log Copy begins.
+8/21/2019 1:04:47 PM: Reading date information from ini file...
+8/21/2019 1:04:47 PM: Checking beginning and ending days validity...
+8/21/2019 1:04:47 PM: Entered getLogDatesArray section. Creating log days array...
+8/21/2019 1:04:47 PM: Beginning date is: 6/12/2019
+8/21/2019 1:04:47 PM: Ending date is: 8/21/2019
+8/21/2019 1:04:47 PM: Exited getLogDaysArray section.
+8/21/2019 1:04:47 PM: Entered sp4Log section.
+8/21/2019 1:04:47 PM: sp4 output folder is created under C:\GRGLogs
+8/21/2019 1:04:47 PM: 20190607_173928_20190627_165620.zip is copied from C:\GrgBanking\Log\20190607_173928_20190627_165620.zip to C:\GRGLogs\sp4
+8/21/2019 1:04:47 PM: 20190627_165620_20190628_111840.zip is copied from C:\GrgBanking\Log\20190627_165620_20190628_111840.zip to C:\GRGLogs\sp4
+8/21/2019 1:04:47 PM: 20190628_111840_20190710_160934.zip is copied from C:\GrgBanking\Log\20190628_111840_20190710_160934.zip to C:\GRGLogs\sp4
+8/21/2019 1:04:47 PM: 20190710_160934_20190711_162353.zip is copied from C:\GrgBanking\Log\20190710_160934_20190711_162353.zip to C:\GRGLogs\sp4
+8/21/2019 1:04:47 PM: 20190711_162353_20190807_191037.zip is copied from C:\GrgBanking\Log\20190711_162353_20190807_191037.zip to C:\GRGLogs\sp4
+8/21/2019 1:04:47 PM: 20190807_191037_20190808_130948.zip is copied from C:\GrgBanking\Log\20190807_191037_20190808_130948.zip to C:\GRGLogs\sp4
+8/21/2019 1:04:47 PM: 20190808_130948_20190809_110020.zip is copied from C:\GrgBanking\Log\20190808_130948_20190809_110020.zip to C:\GRGLogs\sp4
+8/21/2019 1:04:48 PM: grgsp.grglog is copied from C:\GrgBanking\Log\grgsp.grglog to C:\GRGLogs\sp4
+8/21/2019 1:04:48 PM: Exited sp4Log section
+8/21/2019 1:04:48 PM: Entered sp5Log section
+8/21/2019 1:04:48 PM: sp5 output folder is created under C:\GRGLogs
+8/21/2019 1:04:51 PM: grglog.dxdb is copied from C:\GrgBanking\Log\grglog.dxdb to C:\GRGLogs\sp5
+8/21/2019 1:04:51 PM: Exited sp5Log section
+8/21/2019 1:04:51 PM: Entered CRM/CDM log section.
+8/21/2019 1:04:51 PM: Cash device type is: H68V
+8/21/2019 1:04:51 PM: Cash device type is: H68V
+8/21/2019 1:04:51 PM: CRMLog output folder is created under C:\GRGLogs
+8/21/2019 1:04:51 PM: CRM9250NLog_20190628.txt is copied from C:\GRGBanking\Log\Hardware\CRM9250NLog\CRM9250NLog_20190628.txt to C:\GRGLogs\CRMLog
+8/21/2019 1:04:51 PM: CRM9250NLog_20190629.txt is copied from C:\GRGBanking\Log\Hardware\CRM9250NLog\CRM9250NLog_20190629.txt to C:\GRGLogs\CRMLog
+8/21/2019 1:04:52 PM: CRM9250NLog_20190630.txt is copied from C:\GRGBanking\Log\Hardware\CRM9250NLog\CRM9250NLog_20190630.txt to C:\GRGLogs\CRMLog
+8/21/2019 1:04:52 PM: CRM9250NLog_20190701.txt is copied from C:\GRGBanking\Log\Hardware\CRM9250NLog\CRM9250NLog_20190701.txt to C:\GRGLogs\CRMLog
+8/21/2019 1:04:52 PM: CRM9250NLog_20190702.txt is copied from C:\GRGBanking\Log\Hardware\CRM9250NLog\CRM9250NLog_20190702.txt to C:\GRGLogs\CRMLog
+8/21/2019 1:04:52 PM: CRM9250NLog_20190703.txt is copied from C:\GRGBanking\Log\Hardware\CRM9250NLog\CRM9250NLog_20190703.txt to C:\GRGLogs\CRMLog
+8/21/2019 1:04:52 PM: Entered driverLogs section.
+8/21/2019 1:04:52 PM: driverLogs output folder is created under C:\GRGLogs
+8/21/2019 1:04:52 PM: CARDREADER(2019-07-10).log is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\CARDREADER(2019-07-10).log to C:\GRGLogs\driverLogs
+8/21/2019 1:04:52 PM: CARDREADER(2019-07-11).log is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\CARDREADER(2019-07-11).log to C:\GRGLogs\driverLogs
+8/21/2019 1:04:52 PM: CARDREADER(2019-08-07).log is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\CARDREADER(2019-08-07).log to C:\GRGLogs\driverLogs
+8/21/2019 1:04:52 PM: CARDREADER(2019-08-08).log is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\CARDREADER(2019-08-08).log to C:\GRGLogs\driverLogs
+8/21/2019 1:04:52 PM: CARDREADER(2019-08-09).log is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\CARDREADER(2019-08-09).log to C:\GRGLogs\driverLogs
+8/21/2019 1:04:52 PM: Crm9250(2019-07-10).log is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\Crm9250(2019-07-10).log to C:\GRGLogs\driverLogs
+8/21/2019 1:04:52 PM: CRM9250(2019-07-10).txt is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\CRM9250(2019-07-10).txt to C:\GRGLogs\driverLogs
+8/21/2019 1:04:52 PM: Crm9250(2019-07-11).log is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\Crm9250(2019-07-11).log to C:\GRGLogs\driverLogs
+8/21/2019 1:04:53 PM: CRM9250(2019-07-11).txt is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\CRM9250(2019-07-11).txt to C:\GRGLogs\driverLogs
+8/21/2019 1:04:53 PM: Crm9250(2019-08-07).log is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\Crm9250(2019-08-07).log to C:\GRGLogs\driverLogs
+8/21/2019 1:04:53 PM: CRM9250(2019-08-07).txt is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\CRM9250(2019-08-07).txt to C:\GRGLogs\driverLogs
+8/21/2019 1:04:53 PM: Crm9250(2019-08-08).log is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\Crm9250(2019-08-08).log to C:\GRGLogs\driverLogs
+8/21/2019 1:04:53 PM: CRM9250(2019-08-08).txt is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\CRM9250(2019-08-08).txt to C:\GRGLogs\driverLogs
+8/21/2019 1:04:53 PM: Crm9250(2019-08-09).log is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\Crm9250(2019-08-09).log to C:\GRGLogs\driverLogs
+8/21/2019 1:04:53 PM: CRM9250(2019-08-09).txt is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\CRM9250(2019-08-09).txt to C:\GRGLogs\driverLogs
+8/21/2019 1:04:53 PM: ODepositDoorDevDll(2019-08-07).log is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\ODepositDoorDevDll(2019-08-07).log to C:\GRGLogs\driverLogs
+8/21/2019 1:04:53 PM: ODepositDoorDevDll(2019-08-08).log is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\ODepositDoorDevDll(2019-08-08).log to C:\GRGLogs\driverLogs
+8/21/2019 1:04:53 PM: ODepositDoorDevDll(2019-08-09).log is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\ODepositDoorDevDll(2019-08-09).log to C:\GRGLogs\driverLogs
+8/21/2019 1:04:53 PM: RECEIPTPRN(2019-07-10).log is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\RECEIPTPRN(2019-07-10).log to C:\GRGLogs\driverLogs
+8/21/2019 1:04:53 PM: RECEIPTPRN(2019-07-11).log is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\RECEIPTPRN(2019-07-11).log to C:\GRGLogs\driverLogs
+8/21/2019 1:04:53 PM: RECEIPTPRN(2019-08-07).log is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\RECEIPTPRN(2019-08-07).log to C:\GRGLogs\driverLogs
+8/21/2019 1:04:53 PM: RECEIPTPRN(2019-08-08).log is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\RECEIPTPRN(2019-08-08).log to C:\GRGLogs\driverLogs
+8/21/2019 1:04:53 PM: RECEIPTPRN(2019-08-09).log is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\RECEIPTPRN(2019-08-09).log to C:\GRGLogs\driverLogs
+8/21/2019 1:04:53 PM: USERKEY(2019-08-07).log is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\USERKEY(2019-08-07).log to C:\GRGLogs\driverLogs
+8/21/2019 1:04:53 PM: USERKEY(2019-08-08).log is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\USERKEY(2019-08-08).log to C:\GRGLogs\driverLogs
+8/21/2019 1:04:53 PM: USERKEY(2019-08-09).log is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\USERKEY(2019-08-09).log to C:\GRGLogs\driverLogs
+8/21/2019 1:04:53 PM: Exited driverLogs section.
+8/21/2019 1:04:53 PM: Entered duniteLogs section.
+8/21/2019 1:04:53 PM: duniteLogs output folder is created under C:\GRGLogs
+8/21/2019 1:04:53 PM: 15000(2019-07-11).zip is copied from C:\GrgBanking\log\hardware\15000(2019-07-11).zip to C:\GRGLogs\duniteLogs
+8/21/2019 1:04:53 PM: 15000(2019-07-12).zip is copied from C:\GrgBanking\log\hardware\15000(2019-07-12).zip to C:\GRGLogs\duniteLogs
+8/21/2019 1:04:53 PM: 15000(2019-08-07).zip is copied from C:\GrgBanking\log\hardware\15000(2019-08-07).zip to C:\GRGLogs\duniteLogs
+8/21/2019 1:04:53 PM: 15000(2019-08-08).zip is copied from C:\GrgBanking\log\hardware\15000(2019-08-08).zip to C:\GRGLogs\duniteLogs
+8/21/2019 1:04:53 PM: 15001(2019-07-11).zip is copied from C:\GrgBanking\log\hardware\15001(2019-07-11).zip to C:\GRGLogs\duniteLogs
+8/21/2019 1:04:53 PM: 15001(2019-07-12).zip is copied from C:\GrgBanking\log\hardware\15001(2019-07-12).zip to C:\GRGLogs\duniteLogs
+8/21/2019 1:04:53 PM: 15001(2019-08-07).zip is copied from C:\GrgBanking\log\hardware\15001(2019-08-07).zip to C:\GRGLogs\duniteLogs
+8/21/2019 1:04:53 PM: 15001(2019-08-08).zip is copied from C:\GrgBanking\log\hardware\15001(2019-08-08).zip to C:\GRGLogs\duniteLogs
+8/21/2019 1:04:53 PM: Exited duniteLogs section.
+8/21/2019 1:04:53 PM: Entered XFS Manager Logs section.
+8/21/2019 1:04:53 PM: xfsManLogs output folder is created under C:\GRGLogs
+8/21/2019 1:04:53 PM: 20190806_113656361.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190806_113656361.txt to C:\GRGLogs\xfsManLogs
+8/21/2019 1:04:53 PM: 20190807_191027491.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190807_191027491.txt to C:\GRGLogs\xfsManLogs
+8/21/2019 1:04:53 PM: 20190807_191153431.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190807_191153431.txt to C:\GRGLogs\xfsManLogs
+8/21/2019 1:04:53 PM: 20190808_130939018.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190808_130939018.txt to C:\GRGLogs\xfsManLogs
+8/21/2019 1:04:53 PM: 20190808_152940213.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190808_152940213.txt to C:\GRGLogs\xfsManLogs
+8/21/2019 1:04:53 PM: 20190808_155658465.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190808_155658465.txt to C:\GRGLogs\xfsManLogs
+8/21/2019 1:04:53 PM: 20190809_110010151.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190809_110010151.txt to C:\GRGLogs\xfsManLogs
+8/21/2019 1:04:53 PM: 20190809_135840370.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190809_135840370.txt to C:\GRGLogs\xfsManLogs
+8/21/2019 1:04:53 PM: 20190809_140152903.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190809_140152903.txt to C:\GRGLogs\xfsManLogs
+8/21/2019 1:04:53 PM: 20190809_140153323.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190809_140153323.txt to C:\GRGLogs\xfsManLogs
+8/21/2019 1:04:53 PM: 20190809_140153750.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190809_140153750.txt to C:\GRGLogs\xfsManLogs
+8/21/2019 1:04:54 PM: 20190809_140154191.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190809_140154191.txt to C:\GRGLogs\xfsManLogs
+8/21/2019 1:04:54 PM: 20190809_140154587.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190809_140154587.txt to C:\GRGLogs\xfsManLogs
+8/21/2019 1:04:54 PM: 20190809_140155023.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190809_140155023.txt to C:\GRGLogs\xfsManLogs
+8/21/2019 1:04:54 PM: 20190809_140155443.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190809_140155443.txt to C:\GRGLogs\xfsManLogs
+8/21/2019 1:04:54 PM: 20190809_140155852.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190809_140155852.txt to C:\GRGLogs\xfsManLogs
+8/21/2019 1:04:54 PM: 20190809_140156297.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190809_140156297.txt to C:\GRGLogs\xfsManLogs
+8/21/2019 1:04:54 PM: 20190809_140156674.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190809_140156674.txt to C:\GRGLogs\xfsManLogs
+8/21/2019 1:04:54 PM: 20190809_140157082.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190809_140157082.txt to C:\GRGLogs\xfsManLogs
+8/21/2019 1:04:54 PM: 20190809_140157437.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190809_140157437.txt to C:\GRGLogs\xfsManLogs
+8/21/2019 1:04:54 PM: 20190809_140157810.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190809_140157810.txt to C:\GRGLogs\xfsManLogs
+8/21/2019 1:04:54 PM: 20190809_140158461.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190809_140158461.txt to C:\GRGLogs\xfsManLogs
+8/21/2019 1:04:54 PM: 20190809_140158816.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190809_140158816.txt to C:\GRGLogs\xfsManLogs
+8/21/2019 1:04:54 PM: 20190809_140159202.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190809_140159202.txt to C:\GRGLogs\xfsManLogs
+8/21/2019 1:04:54 PM: 20190809_140159839.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190809_140159839.txt to C:\GRGLogs\xfsManLogs
+8/21/2019 1:04:54 PM: 20190809_140200180.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190809_140200180.txt to C:\GRGLogs\xfsManLogs
+8/21/2019 1:04:54 PM: 20190809_140200553.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190809_140200553.txt to C:\GRGLogs\xfsManLogs
+8/21/2019 1:04:54 PM: 20190809_140200909.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190809_140200909.txt to C:\GRGLogs\xfsManLogs
+8/21/2019 1:04:54 PM: 20190809_140201593.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190809_140201593.txt to C:\GRGLogs\xfsManLogs
+8/21/2019 1:04:54 PM: 20190809_140215682.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190809_140215682.txt to C:\GRGLogs\xfsManLogs
+8/21/2019 1:04:54 PM: 20190809_140216196.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190809_140216196.txt to C:\GRGLogs\xfsManLogs
+8/21/2019 1:04:54 PM: 20190809_140216775.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190809_140216775.txt to C:\GRGLogs\xfsManLogs
+8/21/2019 1:04:54 PM: 20190809_140217489.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190809_140217489.txt to C:\GRGLogs\xfsManLogs
+8/21/2019 1:04:54 PM: 20190809_140218175.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190809_140218175.txt to C:\GRGLogs\xfsManLogs
+8/21/2019 1:04:54 PM: 20190821_112413262.txt is copied from C:\GrgBanking\log\GrgXfsManager\20190821_112413262.txt to C:\GRGLogs\xfsManLogs
+8/21/2019 1:04:54 PM: Exited XFS Manager Logs section.
+8/21/2019 1:04:54 PM: Entered YDCLogs section
+8/21/2019 1:04:54 PM: Exited YDCLogs section
+8/21/2019 1:04:54 PM: Entered Windows system log section
+8/21/2019 1:04:54 PM: windowsSystemLog output folder is created under C:\GRGLogs
+8/21/2019 1:04:54 PM: Windows system log has been copied.
+8/21/2019 1:04:54 PM: Exited Windows system log section
+8/21/2019 1:04:54 PM: Reached the end of the program section
+8/21/2019 1:04:54 PM: 00:00:10.4271406
+8/21/2019 1:04:54 PM: <--------------------------End-of-log-file-------------------------->

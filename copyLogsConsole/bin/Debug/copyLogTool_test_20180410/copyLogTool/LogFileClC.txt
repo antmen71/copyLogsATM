@@ -1,0 +1,213 @@
+10.04.2018 21:49:01: <-------------------------Start-of-log-file------------------------->
+10.04.2018 21:49:01: Log file siz was: . Log file not found. Created.
+10.04.2018 21:49:01: Begin.
+10.04.2018 21:49:01: Checking ATM type...
+10.04.2018 21:49:01: ATM is H68
+10.04.2018 21:49:01: Checking if ini file exists...
+10.04.2018 21:49:01: Ini file has found
+10.04.2018 21:49:01: Checking registry keys for CRM/CDM log keys...
+10.04.2018 21:49:01: ReadDevLogDays Registry Value Not Found, created for H34
+10.04.2018 21:49:01: ReadDevLogPath Registry Value Not Found, created for H34
+10.04.2018 21:49:01: ReadDevLogReturn Registry Value Not Found, created for H34
+10.04.2018 21:49:01: Target path is: D:\sopyLogTool\\GRGLogs
+10.04.2018 21:49:04: Target log folder has been deleted.
+10.04.2018 21:49:04: Target log folder has been created.
+10.04.2018 21:49:04: Log Copy begins.
+10.04.2018 21:49:04: Reading date information from ini file...
+10.04.2018 21:49:04: Checking beginning and ending days validity...
+10.04.2018 21:49:04: Entered getLogDatesArray section. Creating log days array...
+10.04.2018 21:49:04: Beginning date is: 01.03.2018
+10.04.2018 21:49:04: Ending date is: 10.04.2018
+10.04.2018 21:49:04: Exited getLogDaysArray section.
+10.04.2018 21:49:04: Entered sp4Log section.
+10.04.2018 21:49:04: sp4 folder is created under D:\sopyLogTool\\GRGLogs
+10.04.2018 21:49:04: 20180228_213537_20180301_000004.zip is copied from C:\GrgBanking\Log\20180228_213537_20180301_000004.zip to D:\sopyLogTool\\GRGLogs\sp4
+10.04.2018 21:49:04: 20180301_000004_20180301_091847.zip is copied from C:\GrgBanking\Log\20180301_000004_20180301_091847.zip to D:\sopyLogTool\\GRGLogs\sp4
+10.04.2018 21:49:04: 20180301_091847_20180301_145845.zip is copied from C:\GrgBanking\Log\20180301_091847_20180301_145845.zip to D:\sopyLogTool\\GRGLogs\sp4
+10.04.2018 21:49:04: 20180301_145845_20180301_191316.zip is copied from C:\GrgBanking\Log\20180301_145845_20180301_191316.zip to D:\sopyLogTool\\GRGLogs\sp4
+10.04.2018 21:49:05: 20180301_191316_20180301_223437.zip is copied from C:\GrgBanking\Log\20180301_191316_20180301_223437.zip to D:\sopyLogTool\\GRGLogs\sp4
+10.04.2018 21:49:05: 20180301_223437_20180302_000004.zip is copied from C:\GrgBanking\Log\20180301_223437_20180302_000004.zip to D:\sopyLogTool\\GRGLogs\sp4
+10.04.2018 21:49:05: 20180302_000004_20180302_094715.zip is copied from C:\GrgBanking\Log\20180302_000004_20180302_094715.zip to D:\sopyLogTool\\GRGLogs\sp4
+10.04.2018 21:49:05: 20180302_094715_20180302_155750.zip is copied from C:\GrgBanking\Log\20180302_094715_20180302_155750.zip to D:\sopyLogTool\\GRGLogs\sp4
+10.04.2018 21:49:05: 20180302_155750_20180302_193312.zip is copied from C:\GrgBanking\Log\20180302_155750_20180302_193312.zip to D:\sopyLogTool\\GRGLogs\sp4
+10.04.2018 21:49:05: 20180302_193312_20180303_000004.zip is copied from C:\GrgBanking\Log\20180302_193312_20180303_000004.zip to D:\sopyLogTool\\GRGLogs\sp4
+10.04.2018 21:49:05: 20180303_000004_20180303_103853.zip is copied from C:\GrgBanking\Log\20180303_000004_20180303_103853.zip to D:\sopyLogTool\\GRGLogs\sp4
+10.04.2018 21:49:05: 20180303_103853_20180303_202700.zip is copied from C:\GrgBanking\Log\20180303_103853_20180303_202700.zip to D:\sopyLogTool\\GRGLogs\sp4
+10.04.2018 21:49:05: 20180303_202700_20180304_000004.zip is copied from C:\GrgBanking\Log\20180303_202700_20180304_000004.zip to D:\sopyLogTool\\GRGLogs\sp4
+10.04.2018 21:49:05: 20180304_000004_20180304_121319.zip is copied from C:\GrgBanking\Log\20180304_000004_20180304_121319.zip to D:\sopyLogTool\\GRGLogs\sp4
+10.04.2018 21:49:05: 20180304_121319_20180304_195754.zip is copied from C:\GrgBanking\Log\20180304_121319_20180304_195754.zip to D:\sopyLogTool\\GRGLogs\sp4
+10.04.2018 21:49:05: 20180304_195754_20180305_000004.zip is copied from C:\GrgBanking\Log\20180304_195754_20180305_000004.zip to D:\sopyLogTool\\GRGLogs\sp4
+10.04.2018 21:49:05: 20180305_000004_20180305_115434.zip is copied from C:\GrgBanking\Log\20180305_000004_20180305_115434.zip to D:\sopyLogTool\\GRGLogs\sp4
+10.04.2018 21:49:05: 20180305_115434_20180306_022809.zip is copied from C:\GrgBanking\Log\20180305_115434_20180306_022809.zip to D:\sopyLogTool\\GRGLogs\sp4
+10.04.2018 21:49:05: 20180306_022809_20180306_141825.zip is copied from C:\GrgBanking\Log\20180306_022809_20180306_141825.zip to D:\sopyLogTool\\GRGLogs\sp4
+10.04.2018 21:49:05: 20180306_141825_20180306_184316.zip is copied from C:\GrgBanking\Log\20180306_141825_20180306_184316.zip to D:\sopyLogTool\\GRGLogs\sp4
+10.04.2018 21:49:05: 20180306_184316_20180306_214358.zip is copied from C:\GrgBanking\Log\20180306_184316_20180306_214358.zip to D:\sopyLogTool\\GRGLogs\sp4
+10.04.2018 21:49:05: 20180306_214358_20180307_000003.zip is copied from C:\GrgBanking\Log\20180306_214358_20180307_000003.zip to D:\sopyLogTool\\GRGLogs\sp4
+10.04.2018 21:49:05: 20180307_000003_20180307_092443.zip is copied from C:\GrgBanking\Log\20180307_000003_20180307_092443.zip to D:\sopyLogTool\\GRGLogs\sp4
+10.04.2018 21:49:05: 20180307_092443_20180307_152424.zip is copied from C:\GrgBanking\Log\20180307_092443_20180307_152424.zip to D:\sopyLogTool\\GRGLogs\sp4
+10.04.2018 21:49:05: 20180307_152424_20180307_194519.zip is copied from C:\GrgBanking\Log\20180307_152424_20180307_194519.zip to D:\sopyLogTool\\GRGLogs\sp4
+10.04.2018 21:49:05: 20180307_194519_20180307_233701.zip is copied from C:\GrgBanking\Log\20180307_194519_20180307_233701.zip to D:\sopyLogTool\\GRGLogs\sp4
+10.04.2018 21:49:05: 20180307_233701_20180308_000003.zip is copied from C:\GrgBanking\Log\20180307_233701_20180308_000003.zip to D:\sopyLogTool\\GRGLogs\sp4
+10.04.2018 21:49:05: 20180308_000003_20180308_093027.zip is copied from C:\GrgBanking\Log\20180308_000003_20180308_093027.zip to D:\sopyLogTool\\GRGLogs\sp4
+10.04.2018 21:49:05: 20180308_093027_20180308_160939.zip is copied from C:\GrgBanking\Log\20180308_093027_20180308_160939.zip to D:\sopyLogTool\\GRGLogs\sp4
+10.04.2018 21:49:05: 20180308_160939_20180308_202927.zip is copied from C:\GrgBanking\Log\20180308_160939_20180308_202927.zip to D:\sopyLogTool\\GRGLogs\sp4
+10.04.2018 21:49:05: 20180308_202927_20180309_000004.zip is copied from C:\GrgBanking\Log\20180308_202927_20180309_000004.zip to D:\sopyLogTool\\GRGLogs\sp4
+10.04.2018 21:49:05: 20180309_000004_20180309_100650.zip is copied from C:\GrgBanking\Log\20180309_000004_20180309_100650.zip to D:\sopyLogTool\\GRGLogs\sp4
+10.04.2018 21:49:05: 20180309_100650_20180309_160757.zip is copied from C:\GrgBanking\Log\20180309_100650_20180309_160757.zip to D:\sopyLogTool\\GRGLogs\sp4
+10.04.2018 21:49:05: 20180309_160757_20180309_200805.zip is copied from C:\GrgBanking\Log\20180309_160757_20180309_200805.zip to D:\sopyLogTool\\GRGLogs\sp4
+10.04.2018 21:49:05: 20180309_200805_20180310_000003.zip is copied from C:\GrgBanking\Log\20180309_200805_20180310_000003.zip to D:\sopyLogTool\\GRGLogs\sp4
+10.04.2018 21:49:05: 20180310_000003_20180310_102724.zip is copied from C:\GrgBanking\Log\20180310_000003_20180310_102724.zip to D:\sopyLogTool\\GRGLogs\sp4
+10.04.2018 21:49:05: 20180310_102724_20180310_153249.zip is copied from C:\GrgBanking\Log\20180310_102724_20180310_153249.zip to D:\sopyLogTool\\GRGLogs\sp4
+10.04.2018 21:49:05: 20180310_153249_20180310_191550.zip is copied from C:\GrgBanking\Log\20180310_153249_20180310_191550.zip to D:\sopyLogTool\\GRGLogs\sp4
+10.04.2018 21:49:06: 20180310_191550_20180311_000003.zip is copied from C:\GrgBanking\Log\20180310_191550_20180311_000003.zip to D:\sopyLogTool\\GRGLogs\sp4
+10.04.2018 21:49:06: 20180311_000003_20180311_100640.zip is copied from C:\GrgBanking\Log\20180311_000003_20180311_100640.zip to D:\sopyLogTool\\GRGLogs\sp4
+10.04.2018 21:49:06: 20180311_100640_20180311_164356.zip is copied from C:\GrgBanking\Log\20180311_100640_20180311_164356.zip to D:\sopyLogTool\\GRGLogs\sp4
+10.04.2018 21:49:06: 20180311_164356_20180311_225255.zip is copied from C:\GrgBanking\Log\20180311_164356_20180311_225255.zip to D:\sopyLogTool\\GRGLogs\sp4
+10.04.2018 21:49:06: 20180311_225255_20180312_000005.zip is copied from C:\GrgBanking\Log\20180311_225255_20180312_000005.zip to D:\sopyLogTool\\GRGLogs\sp4
+10.04.2018 21:49:06: 20180312_000005_20180312_093510.zip is copied from C:\GrgBanking\Log\20180312_000005_20180312_093510.zip to D:\sopyLogTool\\GRGLogs\sp4
+10.04.2018 21:49:06: 20180312_093510_20180312_141810.zip is copied from C:\GrgBanking\Log\20180312_093510_20180312_141810.zip to D:\sopyLogTool\\GRGLogs\sp4
+10.04.2018 21:49:06: 20180312_141810_20180312_182745.zip is copied from C:\GrgBanking\Log\20180312_141810_20180312_182745.zip to D:\sopyLogTool\\GRGLogs\sp4
+10.04.2018 21:49:06: 20180312_182745_20180312_211646.zip is copied from C:\GrgBanking\Log\20180312_182745_20180312_211646.zip to D:\sopyLogTool\\GRGLogs\sp4
+10.04.2018 21:49:06: 20180312_211646_20180313_000004.zip is copied from C:\GrgBanking\Log\20180312_211646_20180313_000004.zip to D:\sopyLogTool\\GRGLogs\sp4
+10.04.2018 21:49:06: 20180313_000004_20180313_101517.zip is copied from C:\GrgBanking\Log\20180313_000004_20180313_101517.zip to D:\sopyLogTool\\GRGLogs\sp4
+10.04.2018 21:49:06: 20180313_101517_20180320_171925.zip is copied from C:\GrgBanking\Log\20180313_101517_20180320_171925.zip to D:\sopyLogTool\\GRGLogs\sp4
+10.04.2018 21:49:06: 20180320_171925_20180320_202630.zip is copied from C:\GrgBanking\Log\20180320_171925_20180320_202630.zip to D:\sopyLogTool\\GRGLogs\sp4
+10.04.2018 21:49:06: 20180320_202630_20180320_232505.zip is copied from C:\GrgBanking\Log\20180320_202630_20180320_232505.zip to D:\sopyLogTool\\GRGLogs\sp4
+10.04.2018 21:49:06: 20180320_232505_20180321_000003.zip is copied from C:\GrgBanking\Log\20180320_232505_20180321_000003.zip to D:\sopyLogTool\\GRGLogs\sp4
+10.04.2018 21:49:06: 20180321_000003_20180321_025836.zip is copied from C:\GrgBanking\Log\20180321_000003_20180321_025836.zip to D:\sopyLogTool\\GRGLogs\sp4
+10.04.2018 21:49:06: 20180321_025836_20180321_055709.zip is copied from C:\GrgBanking\Log\20180321_025836_20180321_055709.zip to D:\sopyLogTool\\GRGLogs\sp4
+10.04.2018 21:49:06: 20180321_055709_20180321_085543.zip is copied from C:\GrgBanking\Log\20180321_055709_20180321_085543.zip to D:\sopyLogTool\\GRGLogs\sp4
+10.04.2018 21:49:06: 20180321_085543_20180410_200706.zip is copied from C:\GrgBanking\Log\20180321_085543_20180410_200706.zip to D:\sopyLogTool\\GRGLogs\sp4
+10.04.2018 21:49:06: grgsp.grglog is copied from C:\GrgBanking\Log\grgsp.grglog to D:\sopyLogTool\\GRGLogs\sp4
+10.04.2018 21:49:06: Exited sp4Log section
+10.04.2018 21:49:06: Entered sp5Log section
+10.04.2018 21:49:06: Sp5Logs criteria is false. No Sp5Logs will be copied
+10.04.2018 21:49:06: Exited sp5Log section
+10.04.2018 21:49:06: Entered CRM/CDM log section.
+10.04.2018 21:49:06: CRMLog list is empty. No logs will be copied.
+10.04.2018 21:49:06: Entered driverLogs section.
+10.04.2018 21:49:06: driverLogs folder is created under D:\sopyLogTool\\GRGLogs
+10.04.2018 21:49:06: CARDREADER(2018-03-13).log is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\CARDREADER(2018-03-13).log to D:\sopyLogTool\\GRGLogs\driverLogs
+10.04.2018 21:49:06: CARDREADER(2018-03-20).log is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\CARDREADER(2018-03-20).log to D:\sopyLogTool\\GRGLogs\driverLogs
+10.04.2018 21:49:06: CARDREADER(2018-04-10).log is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\CARDREADER(2018-04-10).log to D:\sopyLogTool\\GRGLogs\driverLogs
+10.04.2018 21:49:07: CRM9250(2018-03-11).txt is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\CRM9250(2018-03-11).txt to D:\sopyLogTool\\GRGLogs\driverLogs
+10.04.2018 21:49:07: CRM9250(2018-03-12).txt is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\CRM9250(2018-03-12).txt to D:\sopyLogTool\\GRGLogs\driverLogs
+10.04.2018 21:49:07: Crm9250(2018-03-13).log is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\Crm9250(2018-03-13).log to D:\sopyLogTool\\GRGLogs\driverLogs
+10.04.2018 21:49:07: CRM9250(2018-03-13).txt is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\CRM9250(2018-03-13).txt to D:\sopyLogTool\\GRGLogs\driverLogs
+10.04.2018 21:49:07: Crm9250(2018-03-20).log is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\Crm9250(2018-03-20).log to D:\sopyLogTool\\GRGLogs\driverLogs
+10.04.2018 21:49:07: CRM9250(2018-03-20).txt is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\CRM9250(2018-03-20).txt to D:\sopyLogTool\\GRGLogs\driverLogs
+10.04.2018 21:49:07: CRM9250(2018-03-21).txt is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\CRM9250(2018-03-21).txt to D:\sopyLogTool\\GRGLogs\driverLogs
+10.04.2018 21:49:07: Crm9250(2018-04-10).log is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\Crm9250(2018-04-10).log to D:\sopyLogTool\\GRGLogs\driverLogs
+10.04.2018 21:49:07: CRM9250(2018-04-10).txt is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\CRM9250(2018-04-10).txt to D:\sopyLogTool\\GRGLogs\driverLogs
+10.04.2018 21:49:07: ODepositDoorDevDll(2018-04-10).log is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\ODepositDoorDevDll(2018-04-10).log to D:\sopyLogTool\\GRGLogs\driverLogs
+10.04.2018 21:49:07: RECEIPTPRN(2018-03-11).log is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\RECEIPTPRN(2018-03-11).log to D:\sopyLogTool\\GRGLogs\driverLogs
+10.04.2018 21:49:07: RECEIPTPRN(2018-03-12).log is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\RECEIPTPRN(2018-03-12).log to D:\sopyLogTool\\GRGLogs\driverLogs
+10.04.2018 21:49:07: RECEIPTPRN(2018-03-13).log is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\RECEIPTPRN(2018-03-13).log to D:\sopyLogTool\\GRGLogs\driverLogs
+10.04.2018 21:49:07: RECEIPTPRN(2018-03-20).log is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\RECEIPTPRN(2018-03-20).log to D:\sopyLogTool\\GRGLogs\driverLogs
+10.04.2018 21:49:07: RECEIPTPRN(2018-03-21).log is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\RECEIPTPRN(2018-03-21).log to D:\sopyLogTool\\GRGLogs\driverLogs
+10.04.2018 21:49:07: RECEIPTPRN(2018-04-10).log is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\RECEIPTPRN(2018-04-10).log to D:\sopyLogTool\\GRGLogs\driverLogs
+10.04.2018 21:49:07: USERKEY(2018-04-10).log is copied from C:\Program Files\GrgBanking\GRGXFSSP\DevDriverLog\USERKEY(2018-04-10).log to D:\sopyLogTool\\GRGLogs\driverLogs
+10.04.2018 21:49:07: Exited driverLogs section.
+10.04.2018 21:49:07: Entered duniteLogs section.
+10.04.2018 21:49:07: duniteLogs folder is created under D:\sopyLogTool\\GRGLogs
+10.04.2018 21:49:07: 15000(2018-03-13).zip is copied from C:\GrgBanking\log\hardware\15000(2018-03-13).zip to D:\sopyLogTool\\GRGLogs\duniteLogs
+10.04.2018 21:49:07: 15000(2018-03-20).zip is copied from C:\GrgBanking\log\hardware\15000(2018-03-20).zip to D:\sopyLogTool\\GRGLogs\duniteLogs
+10.04.2018 21:49:07: 15001(2018-03-13).zip is copied from C:\GrgBanking\log\hardware\15001(2018-03-13).zip to D:\sopyLogTool\\GRGLogs\duniteLogs
+10.04.2018 21:49:07: 15001(2018-03-20).zip is copied from C:\GrgBanking\log\hardware\15001(2018-03-20).zip to D:\sopyLogTool\\GRGLogs\duniteLogs
+10.04.2018 21:49:07: Exited duniteLogs section.
+10.04.2018 21:49:07: Entered XFS Manager Logs section.
+10.04.2018 21:49:07: XFSManLog criteria is false. No xfsManLog will be copied
+10.04.2018 21:49:07: Exited XFS Manager Logs section.
+10.04.2018 21:49:07: Entered YDCLogs section
+10.04.2018 21:49:07: Exited YDCLogs section
+10.04.2018 21:49:07: Entered Windows system log section
+10.04.2018 21:49:07: winSystemLog criteria is false. Windows System event log will be copied
+10.04.2018 21:49:07: Exited Windows system log section
+10.04.2018 21:49:07: Entered zip section
+10.04.2018 21:49:17: Packing D:\sopyLogTool\\GRGLogs\sp4\20180228_213537_20180301_000004.zip
+10.04.2018 21:49:17: Packing D:\sopyLogTool\\GRGLogs\sp4\20180301_000004_20180301_091847.zip
+10.04.2018 21:49:18: Packing D:\sopyLogTool\\GRGLogs\sp4\20180301_091847_20180301_145845.zip
+10.04.2018 21:49:18: Packing D:\sopyLogTool\\GRGLogs\sp4\20180301_145845_20180301_191316.zip
+10.04.2018 21:49:18: Packing D:\sopyLogTool\\GRGLogs\sp4\20180301_191316_20180301_223437.zip
+10.04.2018 21:49:19: Packing D:\sopyLogTool\\GRGLogs\sp4\20180301_223437_20180302_000004.zip
+10.04.2018 21:49:19: Packing D:\sopyLogTool\\GRGLogs\sp4\20180302_000004_20180302_094715.zip
+10.04.2018 21:49:19: Packing D:\sopyLogTool\\GRGLogs\sp4\20180302_094715_20180302_155750.zip
+10.04.2018 21:49:19: Packing D:\sopyLogTool\\GRGLogs\sp4\20180302_155750_20180302_193312.zip
+10.04.2018 21:49:19: Packing D:\sopyLogTool\\GRGLogs\sp4\20180302_193312_20180303_000004.zip
+10.04.2018 21:49:20: Packing D:\sopyLogTool\\GRGLogs\sp4\20180303_000004_20180303_103853.zip
+10.04.2018 21:49:20: Packing D:\sopyLogTool\\GRGLogs\sp4\20180303_103853_20180303_202700.zip
+10.04.2018 21:49:20: Packing D:\sopyLogTool\\GRGLogs\sp4\20180303_202700_20180304_000004.zip
+10.04.2018 21:49:20: Packing D:\sopyLogTool\\GRGLogs\sp4\20180304_000004_20180304_121319.zip
+10.04.2018 21:49:20: Packing D:\sopyLogTool\\GRGLogs\sp4\20180304_121319_20180304_195754.zip
+10.04.2018 21:49:21: Packing D:\sopyLogTool\\GRGLogs\sp4\20180304_195754_20180305_000004.zip
+10.04.2018 21:49:21: Packing D:\sopyLogTool\\GRGLogs\sp4\20180305_000004_20180305_115434.zip
+10.04.2018 21:49:21: Packing D:\sopyLogTool\\GRGLogs\sp4\20180305_115434_20180306_022809.zip
+10.04.2018 21:49:21: Packing D:\sopyLogTool\\GRGLogs\sp4\20180306_022809_20180306_141825.zip
+10.04.2018 21:49:22: Packing D:\sopyLogTool\\GRGLogs\sp4\20180306_141825_20180306_184316.zip
+10.04.2018 21:49:22: Packing D:\sopyLogTool\\GRGLogs\sp4\20180306_184316_20180306_214358.zip
+10.04.2018 21:49:22: Packing D:\sopyLogTool\\GRGLogs\sp4\20180306_214358_20180307_000003.zip
+10.04.2018 21:49:22: Packing D:\sopyLogTool\\GRGLogs\sp4\20180307_000003_20180307_092443.zip
+10.04.2018 21:49:23: Packing D:\sopyLogTool\\GRGLogs\sp4\20180307_092443_20180307_152424.zip
+10.04.2018 21:49:23: Packing D:\sopyLogTool\\GRGLogs\sp4\20180307_152424_20180307_194519.zip
+10.04.2018 21:49:23: Packing D:\sopyLogTool\\GRGLogs\sp4\20180307_194519_20180307_233701.zip
+10.04.2018 21:49:24: Packing D:\sopyLogTool\\GRGLogs\sp4\20180307_233701_20180308_000003.zip
+10.04.2018 21:49:24: Packing D:\sopyLogTool\\GRGLogs\sp4\20180308_000003_20180308_093027.zip
+10.04.2018 21:49:24: Packing D:\sopyLogTool\\GRGLogs\sp4\20180308_093027_20180308_160939.zip
+10.04.2018 21:49:24: Packing D:\sopyLogTool\\GRGLogs\sp4\20180308_160939_20180308_202927.zip
+10.04.2018 21:49:24: Packing D:\sopyLogTool\\GRGLogs\sp4\20180308_202927_20180309_000004.zip
+10.04.2018 21:49:25: Packing D:\sopyLogTool\\GRGLogs\sp4\20180309_000004_20180309_100650.zip
+10.04.2018 21:49:25: Packing D:\sopyLogTool\\GRGLogs\sp4\20180309_100650_20180309_160757.zip
+10.04.2018 21:49:25: Packing D:\sopyLogTool\\GRGLogs\sp4\20180309_160757_20180309_200805.zip
+10.04.2018 21:49:26: Packing D:\sopyLogTool\\GRGLogs\sp4\20180309_200805_20180310_000003.zip
+10.04.2018 21:49:26: Packing D:\sopyLogTool\\GRGLogs\sp4\20180310_000003_20180310_102724.zip
+10.04.2018 21:49:26: Packing D:\sopyLogTool\\GRGLogs\sp4\20180310_102724_20180310_153249.zip
+10.04.2018 21:49:26: Packing D:\sopyLogTool\\GRGLogs\sp4\20180310_153249_20180310_191550.zip
+10.04.2018 21:49:27: Packing D:\sopyLogTool\\GRGLogs\sp4\20180310_191550_20180311_000003.zip
+10.04.2018 21:49:27: Packing D:\sopyLogTool\\GRGLogs\sp4\20180311_000003_20180311_100640.zip
+10.04.2018 21:49:27: Packing D:\sopyLogTool\\GRGLogs\sp4\20180311_100640_20180311_164356.zip
+10.04.2018 21:49:28: Packing D:\sopyLogTool\\GRGLogs\sp4\20180311_164356_20180311_225255.zip
+10.04.2018 21:49:28: Packing D:\sopyLogTool\\GRGLogs\sp4\20180311_225255_20180312_000005.zip
+10.04.2018 21:49:28: Packing D:\sopyLogTool\\GRGLogs\sp4\20180312_000005_20180312_093510.zip
+10.04.2018 21:49:28: Packing D:\sopyLogTool\\GRGLogs\sp4\20180312_093510_20180312_141810.zip
+10.04.2018 21:49:28: Packing D:\sopyLogTool\\GRGLogs\sp4\20180312_141810_20180312_182745.zip
+10.04.2018 21:49:29: Packing D:\sopyLogTool\\GRGLogs\sp4\20180312_182745_20180312_211646.zip
+10.04.2018 21:49:29: Packing D:\sopyLogTool\\GRGLogs\sp4\20180312_211646_20180313_000004.zip
+10.04.2018 21:49:29: Packing D:\sopyLogTool\\GRGLogs\sp4\20180313_000004_20180313_101517.zip
+10.04.2018 21:49:30: Packing D:\sopyLogTool\\GRGLogs\sp4\20180313_101517_20180320_171925.zip
+10.04.2018 21:49:30: Packing D:\sopyLogTool\\GRGLogs\sp4\20180320_171925_20180320_202630.zip
+10.04.2018 21:49:30: Packing D:\sopyLogTool\\GRGLogs\sp4\20180320_202630_20180320_232505.zip
+10.04.2018 21:49:30: Packing D:\sopyLogTool\\GRGLogs\sp4\20180320_232505_20180321_000003.zip
+10.04.2018 21:49:30: Packing D:\sopyLogTool\\GRGLogs\sp4\20180321_000003_20180321_025836.zip
+10.04.2018 21:49:30: Packing D:\sopyLogTool\\GRGLogs\sp4\20180321_025836_20180321_055709.zip
+10.04.2018 21:49:30: Packing D:\sopyLogTool\\GRGLogs\sp4\20180321_055709_20180321_085543.zip
+10.04.2018 21:49:30: Packing D:\sopyLogTool\\GRGLogs\sp4\20180321_085543_20180410_200706.zip
+10.04.2018 21:49:30: Packing D:\sopyLogTool\\GRGLogs\sp4\grgsp.grglog
+10.04.2018 21:49:31: Packing D:\sopyLogTool\\GRGLogs\duniteLogs\15000(2018-03-13).zip
+10.04.2018 21:49:31: Packing D:\sopyLogTool\\GRGLogs\duniteLogs\15000(2018-03-20).zip
+10.04.2018 21:49:31: Packing D:\sopyLogTool\\GRGLogs\duniteLogs\15001(2018-03-13).zip
+10.04.2018 21:49:31: Packing D:\sopyLogTool\\GRGLogs\duniteLogs\15001(2018-03-20).zip
+10.04.2018 21:49:31: Packing D:\sopyLogTool\\GRGLogs\driverLogs\CARDREADER(2018-03-13).log
+10.04.2018 21:49:31: Packing D:\sopyLogTool\\GRGLogs\driverLogs\CARDREADER(2018-03-20).log
+10.04.2018 21:49:31: Packing D:\sopyLogTool\\GRGLogs\driverLogs\CARDREADER(2018-04-10).log
+10.04.2018 21:49:31: Packing D:\sopyLogTool\\GRGLogs\driverLogs\CRM9250(2018-03-11).txt
+10.04.2018 21:49:32: Packing D:\sopyLogTool\\GRGLogs\driverLogs\CRM9250(2018-03-12).txt
+10.04.2018 21:49:32: Packing D:\sopyLogTool\\GRGLogs\driverLogs\Crm9250(2018-03-13).log
+10.04.2018 21:49:32: Packing D:\sopyLogTool\\GRGLogs\driverLogs\CRM9250(2018-03-13).txt
+10.04.2018 21:49:32: Packing D:\sopyLogTool\\GRGLogs\driverLogs\Crm9250(2018-03-20).log
+10.04.2018 21:49:32: Packing D:\sopyLogTool\\GRGLogs\driverLogs\CRM9250(2018-03-20).txt
+10.04.2018 21:49:32: Packing D:\sopyLogTool\\GRGLogs\driverLogs\CRM9250(2018-03-21).txt
+10.04.2018 21:49:32: Packing D:\sopyLogTool\\GRGLogs\driverLogs\Crm9250(2018-04-10).log
+10.04.2018 21:49:32: Packing D:\sopyLogTool\\GRGLogs\driverLogs\CRM9250(2018-04-10).txt
+10.04.2018 21:49:32: Packing D:\sopyLogTool\\GRGLogs\driverLogs\ODepositDoorDevDll(2018-04-10).log
+10.04.2018 21:49:32: Packing D:\sopyLogTool\\GRGLogs\driverLogs\RECEIPTPRN(2018-03-11).log
+10.04.2018 21:49:32: Packing D:\sopyLogTool\\GRGLogs\driverLogs\RECEIPTPRN(2018-03-12).log
+10.04.2018 21:49:32: Packing D:\sopyLogTool\\GRGLogs\driverLogs\RECEIPTPRN(2018-03-13).log
+10.04.2018 21:49:32: Packing D:\sopyLogTool\\GRGLogs\driverLogs\RECEIPTPRN(2018-03-20).log
+10.04.2018 21:49:32: Packing D:\sopyLogTool\\GRGLogs\driverLogs\RECEIPTPRN(2018-03-21).log
+10.04.2018 21:49:33: Packing D:\sopyLogTool\\GRGLogs\driverLogs\RECEIPTPRN(2018-04-10).log
+10.04.2018 21:49:33: Packing D:\sopyLogTool\\GRGLogs\driverLogs\USERKEY(2018-04-10).log
+10.04.2018 21:49:33: Zip file has been created with 82 files.
+10.04.2018 21:49:33: Exited zip section
+10.04.2018 21:49:33: Reached the end of the program section
+10.04.2018 21:49:33: 00:00:31.6340892
+10.04.2018 21:49:33: <--------------------------End-of-log-file-------------------------->

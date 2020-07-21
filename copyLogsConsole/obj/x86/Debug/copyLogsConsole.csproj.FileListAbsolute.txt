@@ -1,0 +1,36 @@
+C:\Users\SD\documents\visual studio 2010\Projects\copyLogsConsole\copyLogsConsole\bin\Debug\copyLogsConsole.exe.config
+C:\Users\SD\documents\visual studio 2010\Projects\copyLogsConsole\copyLogsConsole\bin\Debug\copyLogsConsole.exe
+C:\Users\SD\documents\visual studio 2010\Projects\copyLogsConsole\copyLogsConsole\bin\Debug\copyLogsConsole.pdb
+C:\Users\SD\documents\visual studio 2010\Projects\copyLogsConsole\copyLogsConsole\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\SD\documents\visual studio 2010\Projects\copyLogsConsole\copyLogsConsole\obj\x86\Debug\copyLogsConsole.exe
+C:\Users\SD\documents\visual studio 2010\Projects\copyLogsConsole\copyLogsConsole\obj\x86\Debug\copyLogsConsole.pdb
+C:\Users\SD\Documents\Visual Studio 2010\Projects\copyLogsConsole - Copy\copyLogsConsole\bin\Debug\copyLogsConsole.exe.config
+C:\Users\SD\Documents\Visual Studio 2010\Projects\copyLogsConsole - Copy\copyLogsConsole\obj\x86\Debug\copyLogsConsole.exe
+C:\Users\SD\Documents\Visual Studio 2010\Projects\copyLogsConsole - Copy\copyLogsConsole\obj\x86\Debug\copyLogsConsole.pdb
+C:\Users\SD\Documents\Visual Studio 2010\Projects\copyLogsConsole - Copy\copyLogsConsole\bin\Debug\copyLogsConsole.exe
+C:\Users\SD\Documents\Visual Studio 2010\Projects\copyLogsConsole - Copy\copyLogsConsole\bin\Debug\copyLogsConsole.pdb
+C:\Users\SD\Documents\Visual Studio 2010\Projects\copyLogsConsole - Copy\copyLogsConsole\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\SD\Documents\Visual Studio 2010\Projects\copyLogsConsoleClassBased\copyLogsConsole\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\SD\Documents\Visual Studio 2010\Projects\copyLogsConsoleClassBased\copyLogsConsole\bin\Debug\copyLogsConsole.exe.config
+C:\Users\SD\Documents\Visual Studio 2010\Projects\copyLogsConsoleClassBased\copyLogsConsole\bin\Debug\copyLogsConsole.exe
+C:\Users\SD\Documents\Visual Studio 2010\Projects\copyLogsConsoleClassBased\copyLogsConsole\bin\Debug\copyLogsConsole.pdb
+C:\Users\SD\Documents\Visual Studio 2010\Projects\copyLogsConsoleClassBased\copyLogsConsole\obj\x86\Debug\copyLogsConsole.exe
+C:\Users\SD\Documents\Visual Studio 2010\Projects\copyLogsConsoleClassBased\copyLogsConsole\obj\x86\Debug\copyLogsConsole.pdb
+C:\Users\SD\Documents\Visual Studio 2010\Projects\copyLogsConsoleClassBased - FinansBank\copyLogsConsole\bin\Debug\copyLogsConsole.exe.config
+C:\Users\SD\Documents\Visual Studio 2010\Projects\copyLogsConsoleClassBased - FinansBank\copyLogsConsole\bin\Debug\copyLogsConsole.exe
+C:\Users\SD\Documents\Visual Studio 2010\Projects\copyLogsConsoleClassBased - FinansBank\copyLogsConsole\bin\Debug\copyLogsConsole.pdb
+C:\Users\SD\Documents\Visual Studio 2010\Projects\copyLogsConsoleClassBased - FinansBank\copyLogsConsole\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\SD\Documents\Visual Studio 2010\Projects\copyLogsConsoleClassBased - FinansBank\copyLogsConsole\obj\x86\Debug\copyLogsConsole.exe
+C:\Users\SD\Documents\Visual Studio 2010\Projects\copyLogsConsoleClassBased - FinansBank\copyLogsConsole\obj\x86\Debug\copyLogsConsole.pdb
+C:\Users\SD\Documents\Visual Studio 2010\Projects\copyLogsConsoleClassBased - FinansBank - noZip\copyLogsConsole\bin\Debug\copyLogsConsole.exe.config
+C:\Users\SD\Documents\Visual Studio 2010\Projects\copyLogsConsoleClassBased - FinansBank - noZip\copyLogsConsole\bin\Debug\copyLogsConsole.exe
+C:\Users\SD\Documents\Visual Studio 2010\Projects\copyLogsConsoleClassBased - FinansBank - noZip\copyLogsConsole\bin\Debug\copyLogsConsole.pdb
+C:\Users\SD\Documents\Visual Studio 2010\Projects\copyLogsConsoleClassBased - FinansBank - noZip\copyLogsConsole\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\SD\Documents\Visual Studio 2010\Projects\copyLogsConsoleClassBased - FinansBank - noZip\copyLogsConsole\obj\x86\Debug\copyLogsConsole.exe
+C:\Users\SD\Documents\Visual Studio 2010\Projects\copyLogsConsoleClassBased - FinansBank - noZip\copyLogsConsole\obj\x86\Debug\copyLogsConsole.pdb
+C:\Users\SD\Documents\Visual Studio 2010\Projects\copyLogsConsoleClassBased - FinansBank - noZip - wH68VOption\copyLogsConsole\bin\Debug\copyLogsConsole.exe.config
+C:\Users\SD\Documents\Visual Studio 2010\Projects\copyLogsConsoleClassBased - FinansBank - noZip - wH68VOption\copyLogsConsole\obj\x86\Debug\copyLogsConsole.exe
+C:\Users\SD\Documents\Visual Studio 2010\Projects\copyLogsConsoleClassBased - FinansBank - noZip - wH68VOption\copyLogsConsole\obj\x86\Debug\copyLogsConsole.pdb
+C:\Users\SD\Documents\Visual Studio 2010\Projects\copyLogsConsoleClassBased - FinansBank - noZip - wH68VOption\copyLogsConsole\bin\Debug\copyLogsConsole.exe
+C:\Users\SD\Documents\Visual Studio 2010\Projects\copyLogsConsoleClassBased - FinansBank - noZip - wH68VOption\copyLogsConsole\bin\Debug\copyLogsConsole.pdb
+C:\Users\SD\Documents\Visual Studio 2010\Projects\copyLogsConsoleClassBased - FinansBank - noZip - wH68VOption\copyLogsConsole\obj\x86\Debug\ResolveAssemblyReference.cache

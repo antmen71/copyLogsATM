@@ -1,0 +1,12 @@
+C:\Users\SD\Documents\Visual Studio 2010\Projects\copyLogsConsoleClassBased - FinansBank - noZip - wH68VOption\copyLogsConsole\bin\Release\copyLogsConsole.exe.config
+C:\Users\SD\Documents\Visual Studio 2010\Projects\copyLogsConsoleClassBased - FinansBank - noZip - wH68VOption\copyLogsConsole\bin\Release\copyLogsConsole.exe
+C:\Users\SD\Documents\Visual Studio 2010\Projects\copyLogsConsoleClassBased - FinansBank - noZip - wH68VOption\copyLogsConsole\bin\Release\copyLogsConsole.pdb
+C:\Users\SD\Documents\Visual Studio 2010\Projects\copyLogsConsoleClassBased - FinansBank - noZip - wH68VOption\copyLogsConsole\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\SD\Documents\Visual Studio 2010\Projects\copyLogsConsoleClassBased - FinansBank - noZip - wH68VOption\copyLogsConsole\obj\x86\Release\copyLogsConsole.exe
+C:\Users\SD\Documents\Visual Studio 2010\Projects\copyLogsConsoleClassBased - FinansBank - noZip - wH68VOption\copyLogsConsole\obj\x86\Release\copyLogsConsole.pdb
+C:\Users\SD\Documents\Visual Studio 2010\Projects\copyLogsConsoleClassBased - DenizBank -withZip - wH68VOption\copyLogsConsole\bin\Release\copyLogsConsole.exe.config
+C:\Users\SD\Documents\Visual Studio 2010\Projects\copyLogsConsoleClassBased - DenizBank -withZip - wH68VOption\copyLogsConsole\obj\x86\Release\copyLogsConsole.exe
+C:\Users\SD\Documents\Visual Studio 2010\Projects\copyLogsConsoleClassBased - DenizBank -withZip - wH68VOption\copyLogsConsole\obj\x86\Release\copyLogsConsole.pdb
+C:\Users\SD\Documents\Visual Studio 2010\Projects\copyLogsConsoleClassBased - DenizBank -withZip - wH68VOption\copyLogsConsole\bin\Release\copyLogsConsole.exe
+C:\Users\SD\Documents\Visual Studio 2010\Projects\copyLogsConsoleClassBased - DenizBank -withZip - wH68VOption\copyLogsConsole\bin\Release\copyLogsConsole.pdb
+C:\Users\SD\Documents\Visual Studio 2010\Projects\copyLogsConsoleClassBased - DenizBank -withZip - wH68VOption\copyLogsConsole\obj\x86\Release\ResolveAssemblyReference.cache
